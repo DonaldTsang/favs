@@ -17,3 +17,4 @@ my favorite software repos
   - https://github.com/kjopek/vmpc
   - https://github.com/pvial00/VMPCCipher
   - https://github.com/bartek96/vmpc_c
+- (Why not Spritz? Broken compared to VMPC)
