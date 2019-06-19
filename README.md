@@ -8,9 +8,11 @@ my favorite software repos
   - Themes (https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
 
 ## VMPC
-- https://github.com/pvial00/VMPC (Python)
-- https://github.com/Gifts/VMPC (Python)
-- https://github.com/amaximciuc/go-vmpcstream (Golang)
+- Python
+  - https://github.com/pvial00/VMPC
+  - https://github.com/Gifts/VMPC
+- Golang
+  - https://github.com/amaximciuc/go-vmpcstream
 - C
   - https://github.com/kjopek/vmpc
   - https://github.com/pvial00/VMPCCipher
