@@ -22,3 +22,11 @@ my favorite software repos
   - https://github.com/pvial00/VMPCCipher
   - https://github.com/bartek96/vmpc_c
 - (Why not RC4 or Spritz? Broken compared to VMPC)
+
+## LC4
+- Python https://github.com/dstein64/LC4
+- JS
+  - https://github.com/Gavin-Song/elsie-four-cipher
+  - https://github.com/umcconnell/lc4
+- Golang https://github.com/tonetheman/golang_lc4
+- C https://github.com/skeeto/elsiefour
