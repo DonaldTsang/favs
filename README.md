@@ -11,8 +11,8 @@ my favorite software repos
 - Python
   - https://github.com/pvial00/VMPC
   - https://github.com/Gifts/VMPC
-- Golang
-  - https://github.com/amaximciuc/go-vmpcstream
+- JS https://github.com/hex7c0/arc4
+- Golang https://github.com/amaximciuc/go-vmpcstream
 - C
   - https://github.com/kjopek/vmpc
   - https://github.com/pvial00/VMPCCipher
