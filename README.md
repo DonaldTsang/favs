@@ -34,3 +34,13 @@ my favorite software repos
 ## The best elliptic curve - Ed448
 - C https://github.com/otrv4/libgoldilocks
 - Go https://github.com/olabini/goldilocks
+
+## The best barcodes - Color barcodes
+- https://github.com/jabcode/jabcode
+- https://github.com/ouyangzhibo/HiQ-Robust-and-Fast-Decoding-of-High-Capacity-Color-QR-Codes
+- https://github.com/quake0day/CobraKing
+
+## The best moving barcodes - TxQR
+- https://github.com/divan/txqr
+- https://github.com/divan/txqr-reader
+- https://github.com/ThePlasmaRailgun/TXQR-Android
