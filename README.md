@@ -30,3 +30,7 @@ my favorite software repos
   - https://github.com/umcconnell/lc4
 - Golang https://github.com/tonetheman/golang_lc4
 - C https://github.com/skeeto/elsiefour
+
+## Ed448
+- C https://github.com/otrv4/libgoldilocks
+- Go https://github.com/olabini/goldilocks
