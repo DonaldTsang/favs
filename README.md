@@ -5,6 +5,9 @@ my favorite software repos
 - https://json5.org/
 - https://github.com/json5/json5
 
+## The best binary encoding - Safe Encoding
+- https://github.com/kstenerud/safe-encoding
+
 ## The best Static Site Generators
 - Pelican (https://github.com/getpelican/pelican)
   - Themes https://github.com/getpelican/pelican-themes
