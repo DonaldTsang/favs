@@ -7,6 +7,7 @@ my favorite software repos
 
 ## The best binary encoding - Safe Encoding
 - https://github.com/kstenerud/safe-encoding
+- 2nd place: https://github.com/Equim-chan/base91
 
 ## The best Static Site Generators
 - Pelican (https://github.com/getpelican/pelican)
