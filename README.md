@@ -48,3 +48,6 @@ my favorite software repos
 - https://github.com/divan/txqr
 - https://github.com/divan/txqr-reader
 - https://github.com/ThePlasmaRailgun/TXQR-Android
+
+## The best tracker dot tool - DEDA
+- https://github.com/dfd-tud/deda
