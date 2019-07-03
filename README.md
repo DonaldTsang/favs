@@ -9,6 +9,7 @@ my favorite software repos
 - https://github.com/kstenerud/safe-encoding
 - 2nd place: https://github.com/Equim-chan/base91
 - 3rd place: https://github.com/kosarev/escapeless
+- others: https://github.com/kevinAlbs/Base122
 
 ## The best Static Site Generators
 - Pelican (https://github.com/getpelican/pelican)
