@@ -53,6 +53,9 @@ my favorite software repos
 - https://github.com/divan/txqr-reader
 - https://github.com/ThePlasmaRailgun/TXQR-Android
 
+## The best paper backup solution - Paperback
+- https://github.com/timwaters/paperback
+
 ## The best number station - PiNumberStation
 - https://github.com/korn101/PiNumberStation
 
