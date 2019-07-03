@@ -49,5 +49,8 @@ my favorite software repos
 - https://github.com/divan/txqr-reader
 - https://github.com/ThePlasmaRailgun/TXQR-Android
 
+## The best number station - PiNumberStation
+- https://github.com/korn101/PiNumberStation
+
 ## The best tracker dot tool - DEDA
 - https://github.com/dfd-tud/deda
