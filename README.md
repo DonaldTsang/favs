@@ -59,6 +59,8 @@ my favorite software repos
 ## The best tracker dot tool - DEDA
 - https://github.com/dfd-tud/deda
 
+## The best password strength tester - zxcvbn
+- https://github.com/dropbox/zxcvbn
 
 ## The best psuedo turing tarpits
 -  https://codegolf.stackexchange.com/questions/110648
