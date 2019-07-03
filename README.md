@@ -66,6 +66,8 @@ my favorite software repos
 -  https://codegolf.stackexchange.com/questions/110648
 
 ## The best hashes - SHA3 competition round 2 and finalists
+- C and Java
+  - https://github.com/coruus/sphlib (RIP Coruus)
 - JS
   - https://github.com/crdrost/sha3-js
   - https://github.com/thalesfsp/insanehash
