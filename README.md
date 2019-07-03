@@ -64,3 +64,14 @@ my favorite software repos
 
 ## The best psuedo turing tarpits
 -  https://codegolf.stackexchange.com/questions/110648
+
+## The best hashes - SHA3 competition round 2 and finalists
+- JS
+  - https://github.com/crdrost/sha3-js
+  - https://github.com/thalesfsp/insanehash
+  - https://github.com/rainersu/hash
+  - https://github.com/dashpay/x11-hash-js (has many clones)
+- Golnag (all are the samecopy)
+  - https://github.com/phoreproject/go-x11
+  - https://github.com/bitbandi/go-x11
+  - https://github.com/samli88/go-x11-hash
