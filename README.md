@@ -57,7 +57,7 @@ my favorite software repos
 - https://github.com/timwaters/paperback
 
 ## The best number station - PiNumberStation
-- https://github.com/korn101/PiNumberStation
+- https://github.com/hiryu85/PiNumberStation/tree/feature/icecast-streaming
 
 ## The best tracker dot tool - DEDA
 - https://github.com/dfd-tud/deda
