@@ -37,7 +37,9 @@ my favorite software repos
 
 ## The best elliptic curve - Ed448
 - C https://github.com/otrv4/libgoldilocks
-- Go https://github.com/olabini/goldilocks
+- Golang
+  - https://github.com/otrv4/ed448
+  - https://github.com/olabini/goldilocks
 
 ## The best barcodes - Color barcodes
 - https://github.com/jabcode/jabcode
