@@ -97,6 +97,14 @@ my favorite software repos
 
 ## The best hash visualisation tool - hashblot 
 - https://github.com/stuartpb/hashblot
+- 2nd place: https://github.com/dakridge/identicon
+- 3rd place: https://github.com/ea7ababe/identicon
+- Others: https://github.com/Mailea/origamicons
+- Others: https://github.com/bitverseio/identicon
+- Others: https://github.com/danfinlay/jazzicon
+- Sound: https://github.com/jasonbot/identijingle
+(Most identicons are either GitHub-like or StackOverflow-like)
+(Too much mirror or rotation symmetry is simply bad)
 
 ## The best fonts for certain use cases
 - General completeness
