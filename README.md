@@ -85,15 +85,20 @@ my favorite software repos
   - https://github.com/samli88/go-x11-hash
 
 ## The best fonts for certain use cases
-- General completeness https://www.google.com/get/noto/
+- General completeness
+    - https://github.com/adobe-fonts/source-han-sans/
+    - https://github.com/googlefonts/noto-fonts
+- Dyslexia
+  - https://www.dyslexiefont.com/
+  - https://opendyslexic.org/
 - Self-censorship http://projectseen.com/
 - Memory http://sansforgetica.rmit/
 - Anti-OCR http://www.imprintlab.com/z-x-x/
 - OCR proofreading https://www.pgdp.net/c/faq/font_sample.php
-- Dyslexia
-  - https://www.dyslexiefont.com/
-  - https://opendyslexic.org/
-  
+
+## The best CJK font generator - zi2zi
+- https://github.com/kaonashi-tyc/zi2zi
+
 ## The best middle finger to YouTube
 - https://github.com/ytdl-org/youtube-dl/ (Downloader)
 - https://github.com/omarroth/invidious (psuedo-proxy)
