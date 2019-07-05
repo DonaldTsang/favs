@@ -93,3 +93,6 @@ my favorite software repos
   - https://www.dyslexiefont.com/
   - https://opendyslexic.org/
   
+# The best middle finger to YouTube
+- https://github.com/ytdl-org/youtube-dl/ (Downloader)
+- https://github.com/omarroth/invidious (Proxy)
