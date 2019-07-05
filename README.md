@@ -17,6 +17,9 @@ my favorite software repos
 - MKDocs (https://github.com/mkdocs/mkdocs)
   - Themes (https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
 
+## The best video player - MPV
+- https://github.com/mpv-player/mpv
+
 ## The best simple stream cipher - VMPC (based on RC4)
 - Python
   - https://github.com/pvial00/VMPC
