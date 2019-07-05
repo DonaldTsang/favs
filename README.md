@@ -85,6 +85,7 @@ my favorite software repos
   - https://github.com/samli88/go-x11-hash
 
 ## The best fonts for certain use cases
+- General completeness https://www.google.com/get/noto/
 - Self-censorship http://projectseen.com/
 - Memory http://sansforgetica.rmit/
 - Anti-OCR http://www.imprintlab.com/z-x-x/
