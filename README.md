@@ -44,10 +44,12 @@ my favorite software repos
   - https://github.com/olabini/goldilocks
 
 ## The best password generator - Diceware
-- https://www.rempe.us/diceware
-- https://github.com/grempe/diceware
-- https://github.com/grempe/diceware/tree/master/lists
-- https://github.com/grempe/diceware/issues
+- The most complete site: https://www.rempe.us/diceware
+  - The repo https://github.com/grempe/diceware
+  - The list https://github.com/grempe/diceware/tree/master/lists
+  - Other lists https://github.com/grempe/diceware/issues
+- The originalm idea site http://world.std.com/~reinhold/diceware.html
+- The comic that led to the idea https://xkcd.com/936/
 
 ## The best barcodes - Color barcodes
 - https://github.com/jabcode/jabcode
