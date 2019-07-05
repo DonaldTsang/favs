@@ -95,4 +95,4 @@ my favorite software repos
   
 # The best middle finger to YouTube
 - https://github.com/ytdl-org/youtube-dl/ (Downloader)
-- https://github.com/omarroth/invidious (Proxy)
+- https://github.com/omarroth/invidious (psuedo-proxy)
