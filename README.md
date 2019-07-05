@@ -43,6 +43,12 @@ my favorite software repos
   - https://github.com/otrv4/ed448
   - https://github.com/olabini/goldilocks
 
+## The best password generator - Diceware
+- https://www.rempe.us/diceware
+- https://github.com/grempe/diceware
+- https://github.com/grempe/diceware/tree/master/lists
+- https://github.com/grempe/diceware/issues
+
 ## The best barcodes - Color barcodes
 - https://github.com/jabcode/jabcode
 - https://github.com/ouyangzhibo/HiQ-Robust-and-Fast-Decoding-of-High-Capacity-Color-QR-Codes
