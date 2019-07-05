@@ -80,3 +80,11 @@ my favorite software repos
   - https://github.com/phoreproject/go-x11
   - https://github.com/bitbandi/go-x11
   - https://github.com/samli88/go-x11-hash
+
+## The best fonts for certain use cases
+- Memory http://sansforgetica.rmit/
+- Anti-OCR http://www.imprintlab.com/z-x-x/
+- OCR proofreading https://www.pgdp.net/c/faq/font_sample.php
+- Dyslexia
+  - https://www.dyslexiefont.com/
+  - https://opendyslexic.org/
