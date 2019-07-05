@@ -95,16 +95,21 @@ my favorite software repos
   - https://github.com/bitbandi/go-x11
   - https://github.com/samli88/go-x11-hash
 
-## The best hash visualisation tool - hashblot 
-- https://github.com/stuartpb/hashblot
-- 2nd place: https://github.com/dakridge/identicon
-- 3rd place: https://github.com/ea7ababe/identicon
-- Others: https://github.com/Mailea/origamicons
-- Others: https://github.com/bitverseio/identicon
-- Others: https://github.com/danfinlay/jazzicon
+## The best hash visualisation tool
+- Ink Blots https://github.com/stuartpb/hashblot
+- Bubbles https://github.com/dakridge/identicon
+- Circular https://github.com/ea7ababe/identicon
+- Triangles https://github.com/Mailea/origamicons
+- Polygons https://github.com/yuvadm/polyhash
+- Ring based https://github.com/Zunawe/identicons
+- Jagged https://github.com/danfinlay/jazzicon
+- Tornado https://github.com/popodidi/idoticon
+- hexagon https://github.com/naknomum/hexicon
+- Heart https://github.com/Schlipak/IdentiHeart
 - Sound: https://github.com/jasonbot/identijingle
 (Most identicons are either GitHub-like or StackOverflow-like)
 (Too much mirror or rotation symmetry is simply bad)
+(Headshot, animal/alien/robot and emoji based are also bad)
 
 ## The best fonts for certain use cases
 - General completeness
