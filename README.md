@@ -111,9 +111,9 @@ my favorite software repos
 - Tiles https://github.com/danslocombe/tiledenticon
 - Heart https://github.com/Schlipak/IdentiHeart
 - Sound: https://github.com/jasonbot/identijingle
-(Most identicons are either GitHub-like or StackOverflow-like)
-(Too much mirror or rotation symmetry is simply bad)
-(Headshot, animal/alien/robot and emoji based are also bad)
+- (Most identicons are either GitHub-like or StackOverflow-like)
+- (Too much mirror or rotation symmetry is simply bad)
+- (Headshot, animal/alien/robot and emoji based are also bad)
 
 ## The best fonts for certain use cases
 - General completeness
