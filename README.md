@@ -68,6 +68,9 @@ my favorite software repos
 ## The best psuedo turing tarpits
 -  https://codegolf.stackexchange.com/questions/110648
 
+## The best browser - UnGoogled Chromium
+- https://github.com/Eloston/ungoogled-chromium
+
 ## The best hashes - SHA3 competition round 2 and finalists
 - C and Java
   - https://github.com/coruus/sphlib (RIP Coruus)
