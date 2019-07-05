@@ -95,6 +95,9 @@ my favorite software repos
   - https://github.com/bitbandi/go-x11
   - https://github.com/samli88/go-x11-hash
 
+## The best hash visualisation tool - hashblot 
+- https://github.com/stuartpb/hashblot
+
 ## The best fonts for certain use cases
 - General completeness
     - https://github.com/adobe-fonts/source-han-sans/
