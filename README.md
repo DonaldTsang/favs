@@ -96,6 +96,8 @@ my favorite software repos
   - https://github.com/samli88/go-x11-hash
 
 ## The best hash visualisation and identicon tools
+- Color strip (SVG) https://github.com/bengl/node-hashcolors
+- Color strip (ANSI) https://github.com/solosodium/colorful-hash
 - Ink Blots https://github.com/stuartpb/hashblot
 - Bubbles https://github.com/dakridge/identicon
 - Circular https://github.com/ea7ababe/identicon 
