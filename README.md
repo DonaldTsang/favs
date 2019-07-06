@@ -70,6 +70,12 @@ my favorite software repos
 ## The best compression benchmark
 - https://github.com/powturbo/TurboBench
 - 2nd place http://pages.di.unipi.it/farruggia/dcb/
+- For the crazies:
+  - http://www.mattmahoney.net/dc/text.html
+  - More benchmarks at http://www.mattmahoney.net/dc
+  - And https://cs.fit.edu/~mmahoney/compression/
+  - https://www.maximumcompression.com/data/summary_mf3.php
+  - http://qlic.altervista.org/
 
 ## The best number station - PiNumberStation
 - https://github.com/hiryu85/PiNumberStation/tree/feature/icecast-streaming
