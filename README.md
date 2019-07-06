@@ -67,6 +67,9 @@ my favorite software repos
 ## The best paper backup solution - Paperback
 - https://github.com/timwaters/paperback
 
+## The best compression benchmark
+- https://github.com/powturbo/TurboBench
+
 ## The best number station - PiNumberStation
 - https://github.com/hiryu85/PiNumberStation/tree/feature/icecast-streaming
 
