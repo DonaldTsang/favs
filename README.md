@@ -85,6 +85,7 @@ my favorite software repos
 ## The best hashes - SHA3 competition round 2 and finalists
 - C and Java
   - https://github.com/coruus/sphlib (RIP Coruus)
+  - https://github.com/pornin/sphlib
 - JS
   - https://github.com/crdrost/sha3-js
   - https://github.com/thalesfsp/insanehash
@@ -94,6 +95,14 @@ my favorite software repos
   - https://github.com/phoreproject/go-x11
   - https://github.com/bitbandi/go-x11
   - https://github.com/samli88/go-x11-hash
+- C++/C#
+  - https://github.com/jar0l/crypto
+  - https://github.com/bonesoul/HashLib
+  - https://github.com/K2/HashLib
+  - https://github.com/mythrill/HashLib
+  - https://github.com/brandonlehmann/HashLib
+- Ada
+  - https://github.com/hopped/darxplorer
 
 ## The best hash visualisation and identicon tools
 - Color strip (SVG) https://github.com/bengl/node-hashcolors
