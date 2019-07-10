@@ -182,6 +182,7 @@ my favorite software repos
   - C https://github.com/tbuktu/libntru
   - Go https://github.com/companyzero/sntrup4591761
 - New Hope
+  - https://github.com/newhopecrypto
   - C https://github.com/vscrypto/ringlwe
   - Go https://github.com/Yawning/newhope
 - BLISS-II
