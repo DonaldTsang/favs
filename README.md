@@ -168,3 +168,15 @@ my favorite software repos
 
 ## The best steganography collection
 - https://github.com/DominicBreuker/stego-toolkit
+
+## The best genereal post-quantum cryptography
+- https://github.com/PQClean/PQClean
+- https://github.com/open-quantum-safe/liboqs/
+
+## The best post-quantum crypto algos
+- SIDH https://github.com/microsoft/PQCrypto-SIDH
+- NTRU
+  - https://github.com/tbuktu/libntru
+  - https://github.com/jkrauze/ntru
+  - https://github.com/smarky7CD/PyNTRU
+  - https://github.com/companyzero/sntrup4591761
