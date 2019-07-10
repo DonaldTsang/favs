@@ -185,4 +185,5 @@ my favorite software repos
   - https://github.com/newhopecrypto
   - C https://github.com/vscrypto/ringlwe
   - Go https://github.com/Yawning/newhope
-- BLISS-II
+- SPHNICS
+  - https://github.com/sphincs
