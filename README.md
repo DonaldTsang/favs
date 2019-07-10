@@ -174,9 +174,10 @@ my favorite software repos
 - https://github.com/open-quantum-safe/liboqs/
 
 ## The best post-quantum crypto algos
-- SIDH https://github.com/microsoft/PQCrypto-SIDH
+- SIDH
+  - C https://github.com/microsoft/PQCrypto-SIDH
+  - Go https://github.com/cloudflare/sidh
 - NTRU
-  - https://github.com/tbuktu/libntru
-  - https://github.com/jkrauze/ntru
-  - https://github.com/smarky7CD/PyNTRU
-  - https://github.com/companyzero/sntrup4591761
+  - https://github.com/NTRUOpenSourceProject
+  - C https://github.com/tbuktu/libntru
+  - Go https://github.com/companyzero/sntrup4591761
