@@ -119,9 +119,11 @@ my favorite software repos
 - SHA3 (Keccak) https://keccak.team/files/Keccak-reference-3.0.pdf
 - BLAKE2 https://blake2.net/blake2.pdf
 - Skein http://www.skein-hash.info/sites/default/files/skein1.3.pdf
+- Groestl http://www.groestl.info/Groestl.pdf
 - BMW http://people.item.ntnu.no/~danilog/Hash/BMW-SecondRound/Supporting_Documentation/BlueMidnightWishDocumentation.pdf
 - SHABAL https://eprint.iacr.org/2009/199.pdf
 - ECHO https://crypto.orange-labs.fr/echo/doc/echo_description_2-0.pdf
+- Luffa http://www.hitachi.com/rd/yrl/crypto/luffa/Luffa_v2_Specification_20091002.pdf
 - SHAvite3 http://www.cs.technion.ac.il/~orrd/SHAvite-3/Spec.15.09.09.pdf
 
 ## The best hash visualisation and identicon tools
