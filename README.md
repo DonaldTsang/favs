@@ -189,3 +189,6 @@ my favorite software repos
   - Go https://github.com/Yawning/newhope
 - SPHNICS
   - https://github.com/sphincs
+
+## The best fun Grids - What3F**ks
+- https://gitlab.com/IvanSanchez/geogrids
