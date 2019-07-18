@@ -192,3 +192,8 @@ my favorite software repos
 
 ## The best fun Grids - What3F**ks
 - https://gitlab.com/IvanSanchez/geogrids
+
+## The best forbidden obfuscation software - GMask
+- Go https://github.com/fggp/gmask
+- Python https://github.com/GunioRobot/pymask
+- JS https://github.com/julianwachholz/wmask
