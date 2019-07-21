@@ -64,6 +64,7 @@ my favorite software repos
 ## The best moving barcodes - TxQR
 - https://github.com/divan/txqr
 - https://github.com/divan/txqr-reader
+- https://github.com/divan/txqr-tester-ios
 - https://github.com/ThePlasmaRailgun/TXQR-Android
 
 ## The best paper backup solution - Paperback
