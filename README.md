@@ -39,6 +39,8 @@ my favorite software repos
   - https://github.com/umcconnell/lc4
 - Golang https://github.com/tonetheman/golang_lc4
 - C https://github.com/skeeto/elsiefour
+- C# https://github.com/MasterChief-John-117/ElsieFour
+- Java https://github.com/ChanceReb/elsie-cipher
 
 ## The best elliptic curve - Ed448
 - C https://github.com/otrv4/libgoldilocks
