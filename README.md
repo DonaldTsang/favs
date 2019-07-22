@@ -86,6 +86,7 @@ my favorite software repos
 
 ## The best tracker dot tool - DEDA
 - https://github.com/dfd-tud/deda
+- 2nd place https://github.com/iandennismiller/yellowdot
 
 ## The best password strength tester - zxcvbn
 - https://github.com/dropbox/zxcvbn
