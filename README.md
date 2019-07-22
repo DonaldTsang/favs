@@ -66,6 +66,7 @@ my favorite software repos
 - https://github.com/divan/txqr-reader
 - https://github.com/divan/txqr-tester-ios
 - https://github.com/ThePlasmaRailgun/TXQR-Android
+- https://github.com/ThePlasmaRailgun/QRStreamer
 
 ## The best paper backup solution - Paperback
 - https://github.com/timwaters/paperback
