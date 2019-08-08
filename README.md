@@ -149,14 +149,15 @@ my favorite software repos
 - Bubbles https://github.com/dakridge/identicon
 - Circular https://github.com/ea7ababe/identicon 
 - Triangles https://github.com/Mailea/origamicons
-- Polygons https://github.com/yuvadm/polyhash
-- Ring based https://github.com/Zunawe/identicons
-- Ring based https://github.com/splitbrain/php-ringicon
-- Jagged https://github.com/danfinlay/jazzicon
-- Tornado https://github.com/popodidi/idoticon
-- hexagon https://github.com/naknomum/hexicon
-- Tiles https://github.com/danslocombe/tiledenticon
-- Heart https://github.com/Schlipak/IdentiHeart
+- Semi-good designs:
+    - Polygons https://github.com/yuvadm/polyhash
+    - Ring based https://github.com/Zunawe/identicons
+    - Ring based https://github.com/splitbrain/php-ringicon
+    - Jagged https://github.com/danfinlay/jazzicon
+    - Tornado https://github.com/popodidi/idoticon
+    - hexagon https://github.com/naknomum/hexicon
+    - Tiles https://github.com/danslocombe/tiledenticon
+    - Heart https://github.com/Schlipak/IdentiHeart
 - Sound: https://github.com/jasonbot/identijingle
 - (Most identicons are either GitHub-like or StackOverflow-like)
 - (Too much mirror or rotation symmetry is simply bad)
