@@ -31,6 +31,8 @@ my favorite software repos
   - https://github.com/pvial00/VMPCCipher
   - https://github.com/bartek96/vmpc_c
 - (Why not RC4 or Spritz? Broken compared to VMPC)
+- (VMPC can be turned into VMPC-MAC which is a hash)
+- (VMPC-R is a bit overkill however)
 
 ## The best hand cipher - LC4
 - Python https://github.com/dstein64/LC4
