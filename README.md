@@ -135,9 +135,11 @@ my favorite software repos
 - Luffa http://www.hitachi.com/rd/yrl/crypto/luffa/Luffa_v2_Specification_20091002.pdf
 - SHAvite3 http://www.cs.technion.ac.il/~orrd/SHAvite-3/Spec.15.09.09.pdf
 
-## The best non-cryptographic hash - FNV-1a and XXH3
+## The best non-cryptographic hash
 - https://en.wikipedia.org/wiki/Fowler–Noll–Vo_hash_function
 - https://fastcompression.blogspot.com/2019/03/presenting-xxh3.html
+- https://blog.minio.io/fee938b5218a
+- https://cryptojedi.org/papers/rfsb-20110508.pdf
 
 ## The best hash visualisation and identicon tools
 - Color strip (SVG) https://github.com/bengl/node-hashcolors
