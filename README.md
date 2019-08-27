@@ -73,9 +73,10 @@ my favorite software repos
 ## The best paper backup solution - Paperback
 - https://github.com/timwaters/paperback
 - Alt https://github.com/Wikinaut/paperback-cli
-- 2nd placehttps://github.com/colindean/optar
+- 2nd place https://github.com/colindean/optar
 - Other https://github.com/matheusd/pypaperbak
 - Other https://github.com/penma/dpaper
+- Other https://github.com/colorsafe/colorsafe
 
 ## The best compression benchmark
 - https://github.com/powturbo/TurboBench
