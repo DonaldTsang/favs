@@ -77,6 +77,7 @@ my favorite software repos
 - Other https://github.com/matheusd/pypaperbak
 - Other https://github.com/penma/dpaper
 - Other https://github.com/colorsafe/colorsafe
+- Other https://github.com/cyphar/paperback
 
 ## The best compression benchmark
 - https://github.com/powturbo/TurboBench
