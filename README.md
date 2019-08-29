@@ -221,3 +221,8 @@ my favorite software repos
 
 ## The best neural roadmap
 - https://github.com/weslynn/AlphaTree-graphic-deep-neural-network
+
+## The best Big Five Questionerre
+- https://github.com/Alheimsins/b5-50-ipip-neo-pi-r
+- https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r
+- https://github.com/Alheimsins/b5-costa-mccrae-300-ipip-neo-pi-r
