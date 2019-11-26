@@ -232,3 +232,6 @@ my favorite software repos
 
 ## Best chardet + language detection
 - https://github.com/Ousret/charset_normalizer
+
+## The best text distance
+- https://github.com/life4/textdistance
