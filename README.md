@@ -230,8 +230,7 @@ my favorite software repos
 ## The best Image Hash
 - https://github.com/thorn-oss/perception
 
-## Best chardet + language detection
+## Best text management tools
 - https://github.com/Ousret/charset_normalizer
-
-## The best text distance
 - https://github.com/life4/textdistance
+- https://github.com/life4/homoglyphs
