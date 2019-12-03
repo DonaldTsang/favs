@@ -227,7 +227,7 @@ my favorite software repos
 - https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r
 - https://github.com/Alheimsins/b5-costa-mccrae-300-ipip-neo-pi-r
 
-## The best Image Hash
+## The best Image Tools
 - https://github.com/thorn-oss/perception
 - https://github.com/mdbloice/Augmentor
 
@@ -235,5 +235,3 @@ my favorite software repos
 - https://github.com/Ousret/charset_normalizer
 - https://github.com/life4/textdistance
 - https://github.com/life4/homoglyphs
-
-## Best Image Augmentation tool
