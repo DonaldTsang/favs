@@ -234,3 +234,6 @@ my favorite software repos
 - https://github.com/Ousret/charset_normalizer
 - https://github.com/life4/textdistance
 - https://github.com/life4/homoglyphs
+
+## Best Image Augmentation tool
+- https://github.com/mdbloice/Augmentor
