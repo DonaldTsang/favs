@@ -229,6 +229,7 @@ my favorite software repos
 
 ## The best Image Hash
 - https://github.com/thorn-oss/perception
+- https://github.com/mdbloice/Augmentor
 
 ## Best text management tools
 - https://github.com/Ousret/charset_normalizer
@@ -236,4 +237,3 @@ my favorite software repos
 - https://github.com/life4/homoglyphs
 
 ## Best Image Augmentation tool
-- https://github.com/mdbloice/Augmentor
