@@ -236,3 +236,6 @@ my favorite software repos
 - https://github.com/life4/textdistance
 - https://github.com/life4/homoglyphs
 - https://github.com/shivam5992/textstat
+
+## Best Image Format - JPEG-XL
+- https://github.com/google/brunsli
