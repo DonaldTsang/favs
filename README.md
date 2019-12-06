@@ -239,3 +239,6 @@ my favorite software repos
 
 ## Best Image Format - JPEG-XL
 - https://github.com/google/brunsli
+
+## Best Grammar Checker - LanguageTool* (LGPL, freemium)
+https://github.com/languagetool-org/languagetool
