@@ -242,3 +242,6 @@ my favorite software repos
 
 ## Best Grammar Checker - LanguageTool* (LGPL, freemium)
 https://github.com/languagetool-org/languagetool
+
+## The best anti-censor on the web tool
+- https://github.com/ValdikSS/GoodbyeDPI
