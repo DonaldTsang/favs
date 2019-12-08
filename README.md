@@ -246,7 +246,10 @@ https://github.com/languagetool-org/languagetool
 ## The best anti-censor on the web tool
 - https://github.com/ValdikSS/GoodbyeDPI
 
-## The best Python formatter
+## The best Python formatter+linter
 - https://github.com/psf/black
 - https://github.com/google/yapf
 - https://github.com/hhatto/autopep8
+- https://github.com/coala/coala
+- https://github.com/PyCQA/pyflakes
+- https://github.com/wemake-services/wemake-python-styleguide
