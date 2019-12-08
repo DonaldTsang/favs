@@ -251,5 +251,5 @@ https://github.com/languagetool-org/languagetool
 - https://github.com/google/yapf
 - https://github.com/hhatto/autopep8
 - https://github.com/coala/coala
-- https://github.com/PyCQA/pyflakes
+- https://github.com/PyCQA/pylint and https://github.com/PyCQA/pyflakes
 - https://github.com/wemake-services/wemake-python-styleguide
