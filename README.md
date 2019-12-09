@@ -256,3 +256,6 @@ https://github.com/languagetool-org/languagetool
 
 ## The most beatutiful chaotic system - Tinkerbell
 - https://en.wikipedia.org/wiki/Tinkerbell_map
+
+## The best non-cryptographic hash test
+- https://github.com/Cyan4973/xxHash/issues/257
