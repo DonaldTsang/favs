@@ -24,7 +24,6 @@ my favorite software repos
 - Python
   - https://github.com/pvial00/VMPC
   - https://github.com/Gifts/VMPC
-- JS https://github.com/hex7c0/arc4
 - Golang https://github.com/amaximciuc/go-vmpcstream
 - C
   - https://github.com/kjopek/vmpc
@@ -33,6 +32,12 @@ my favorite software repos
 - (Why not RC4 or Spritz? Broken compared to VMPC)
 - (VMPC-MAC which is a hash https://eprint.iacr.org/2004/301.pdf)
 - (VMPC-R is a bit overkill however)
+- Another list
+  - JS https://github.com/hex7c0/arc4
+  - Python https://github.com/averykhoo/plaintext-file-fragmentation
+  - Golang https://github.com/andrewarchi/gocipher
+  - C https://github.com/AndryRafam/Chinook
+  - C++ https://github.com/AndryRafam/CastleBravo
 
 ## The best hand cipher - LC4
 - Python https://github.com/dstein64/LC4
