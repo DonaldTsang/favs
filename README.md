@@ -237,10 +237,11 @@ my favorite software repos
 - https://github.com/mdbloice/Augmentor
 
 ## Best text management tools
-- https://github.com/Ousret/charset_normalizer
-- https://github.com/life4/textdistance
-- https://github.com/life4/homoglyphs
-- https://github.com/shivam5992/textstat
+- https://github.com/Ousret/charset_normalizer (Character Encoding and language detector)
+- https://github.com/life4/textdistance (text comparison and phonetic encoding)
+- https://github.com/life4/homoglyphs (homoglyph obfuscation cleaning)
+- https://github.com/shivam5992/textstat (readability statistics information)
+- https://github.com/LuminosoInsight/python-ftfy (unicode glitch repairing)
 
 ## Best Image Format - JPEG-XL
 - https://github.com/google/brunsli
