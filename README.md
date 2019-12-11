@@ -197,8 +197,10 @@ my favorite software repos
 - https://github.com/kaonashi-tyc/zi2zi
 
 ## The best middle finger to YouTube
-- https://github.com/ytdl-org/youtube-dl/ (Downloader)
+- https://github.com/ytdl-org/youtube-dl (Downloader)
 - https://github.com/omarroth/invidious (psuedo-proxy)
+- https://github.com/TeamNewPipe/NewPipe/ (Android)
+- https://github.com/FreeTubeApp/FreeTube (Desktop)
 
 ## The best dice roller - GreenImp's RPG Dice Roller
 - https://github.com/GreenImp/rpg-dice-roller
