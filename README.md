@@ -58,6 +58,14 @@ my favorite software repos
 ## The best crypto library - LibTomCrypt
 - https://github.com/libtom/libtomcrypt
 
+## The best sponge functions - Keccak and NORX
+- NORX
+  - https://github.com/norx/resources
+  - https://github.com/Daeinar/norx-py (Python)
+  - https://github.com/therealmik/norxpy (NumPy)
+  - https://github.com/kaepora/norx.js (JS)
+  - https://github.com/Daeinar/norx-go (Go)
+
 ## The best password generator - Diceware
 - The most complete site: https://www.rempe.us/diceware
   - The repo https://github.com/grempe/diceware
