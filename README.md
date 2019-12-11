@@ -271,3 +271,8 @@ https://github.com/languagetool-org/languagetool
 
 ## The best file detection system
 - https://github.com/openpreserve/fido/issues/173
+
+## Best Terminal Text Editor - NeoVim and SpaceMacs
+- https://github.com/neovim/neovim for Vim lovers
+- https://github.com/syl20bnr/spacemacs for Emacs lovers
+- But what about nano?
