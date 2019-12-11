@@ -205,9 +205,6 @@ my favorite software repos
 ## The best dice roller - GreenImp's RPG Dice Roller
 - https://github.com/GreenImp/rpg-dice-roller
 
-## The best steganography collection
-- https://github.com/DominicBreuker/stego-toolkit
-
 ## The best genereal post-quantum cryptography
 - https://github.com/PQClean/PQClean
 - https://github.com/open-quantum-safe/liboqs/
@@ -244,8 +241,9 @@ my favorite software repos
 - https://github.com/Alheimsins/b5-costa-mccrae-300-ipip-neo-pi-r
 
 ## The best Image Tools
-- https://github.com/thorn-oss/perception
-- https://github.com/mdbloice/Augmentor
+- https://github.com/thorn-oss/perception (Perceptive Hash)
+- https://github.com/mdbloice/Augmentor (Image Augmentation)
+- https://github.com/DominicBreuker/stego-toolkit (Steganography)
 
 ## Best text management tools
 - https://github.com/Ousret/charset_normalizer (Character Encoding and language detector)
