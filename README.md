@@ -252,6 +252,7 @@ https://github.com/languagetool-org/languagetool
 ## The best anti-censor on the web tool
 - https://github.com/ValdikSS/GoodbyeDPI (Mitigation)
 - https://github.com/citizenlab/test-lists (Testing)
+- https://github.com/pastpages/archiveis (Archival)
 
 ## The best Python formatter+linter
 - https://github.com/psf/black
