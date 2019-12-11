@@ -3,7 +3,12 @@ my favorite software repos
 
 ## The best data foramt - JSON5
 - https://json5.org/
-- https://github.com/json5/json5
+- https://github.com/json5/json5 (JS)
+- https://github.com/rlidwka/jju (JS utility)
+- https://github.com/dpranke/pyjson5 (Python reference)
+- https://github.com/Kijewski/pyjson5 (Python fast)
+- https://github.com/yosuke-furukawa/json5 (Golang)
+- https://github.com/flynn/json5 (Golang)
 
 ## The best binary encoding - Safe Encoding
 - https://github.com/kstenerud/safe-encoding
