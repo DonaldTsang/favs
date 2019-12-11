@@ -246,6 +246,7 @@ my favorite software repos
 - https://github.com/life4/homoglyphs (homoglyph obfuscation cleaning)
 - https://github.com/shivam5992/textstat (readability statistics information)
 - https://github.com/LuminosoInsight/python-ftfy (unicode glitch repairing)
+- https://github.com/jpotts18/stylometry or https://github.com/mikekestemont/pystyl (stylometric detections)
 
 ## Best Image Format - JPEG-XL
 - https://github.com/google/brunsli
