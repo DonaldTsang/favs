@@ -55,6 +55,9 @@ my favorite software repos
   - https://github.com/otrv4/ed448
   - https://github.com/olabini/goldilocks
 
+## The best crypto library - LibTomCrypt
+- https://github.com/libtom/libtomcrypt
+
 ## The best password generator - Diceware
 - The most complete site: https://www.rempe.us/diceware
   - The repo https://github.com/grempe/diceware
