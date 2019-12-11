@@ -257,6 +257,7 @@ https://github.com/languagetool-org/languagetool
 - https://github.com/motherboardgithub/mass_archive (Python)
 - https://github.com/oduwsdl/archivenow (Python)
 - https://github.com/pastpages/archiveis (Python)
+- https://github.com/rahiel/archiveror (JS Exntension)
 
 ## The best Python formatter+linter
 - https://github.com/psf/black
@@ -271,3 +272,6 @@ https://github.com/languagetool-org/languagetool
 
 ## The best non-cryptographic hash test
 - https://github.com/Cyan4973/xxHash/issues/257
+
+## The best file detection system
+- https://github.com/openpreserve/fido/issues/173
