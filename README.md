@@ -291,3 +291,6 @@ https://github.com/languagetool-org/languagetool
 - https://github.com/neovim/neovim for Vim lovers
 - https://github.com/syl20bnr/spacemacs for Emacs lovers
 - But what about nano?
+
+## The best phone diary/journaling app
+- https://github.com/hanjoongcho/aaf-easydiary
