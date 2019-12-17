@@ -305,7 +305,7 @@ https://github.com/languagetool-org/languagetool
 ## The best shell tool
 - https://github.com/ohmyzsh/ohmyzsh (all-in-one)
 - https://github.com/tldr-pages/tldr (Man Pages)
-- https://github.com/dylanaraps/pure-bash-bible (Scripting)
+- https://github.com/koalaman/shellcheck (Shell linting)
 
 ## The best adblocking tools
 - https://github.com/pi-hole/pi-hole
