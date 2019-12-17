@@ -299,3 +299,5 @@ https://github.com/languagetool-org/languagetool
 - https://github.com/catamphetamine/captchan (GUI layer)
 - https://github.com/ccd0/imageboards.json (Imageboard database)
 - https://github.com/desudesutalk/desudesutalk (Steganography)
+- https://github.com/ccd0/4chan-x (tooling)
+- https://github.com/KevinParnell/OneeChan (Rice and themes)
