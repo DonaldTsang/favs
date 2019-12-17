@@ -326,3 +326,5 @@ https://github.com/languagetool-org/languagetool
   - https://dzone.com/articles/the-subtle-art-of-giving-your-programming-self-a-b
   - https://facilethings.com/blog/en/pomodoro-technique
   - https://www.101computing.net/pomodoro-timer/
+  - https://zapier.com/blog/flowtime-technique/
+  
