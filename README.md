@@ -309,3 +309,20 @@ https://github.com/languagetool-org/languagetool
 
 ## The best adblocking tools
 - https://github.com/pi-hole/pi-hole
+
+## The best Programming timebox
+- 50/10 or 52/17 or 45/15
+  - https://www.softwaremeadows.com/posts/the_50-10_time_box_revising_pomodoro_for_software_development/
+  - https://www.lesswrong.com/posts/c3SKeDSycHTkmuvyR/pomodoro-for-programmers
+  - https://programmingzen.com/getting-stuff-done-with-the-pomodoro-technique/
+  - https://dzone.com/articles/the-subtle-art-of-giving-your-programming-self-a-b
+- 25/5x4+15
+  - https://medium.com/@mr_mig_by/pomodoro-for-programmers-d6568dd1e6fc
+  - https://progmap.com/learn-programming-faster-with-pomodoro-technique/
+  - http://curiositalabs.com/2018/05/pomodoro-for-programming/
+  - https://mikealdo.github.io/2016/03/14/Pomodoro-and-happiness-in-developer-life.html
+  - https://ericjmritz.wordpress.com/2013/02/14/the-pomodoro-technique/
+  - https://simpleprogrammer.com/secret-ridiculous-productivity-im-using-now/
+  - https://dzone.com/articles/the-subtle-art-of-giving-your-programming-self-a-b
+  - https://facilethings.com/blog/en/pomodoro-technique
+  - https://www.101computing.net/pomodoro-timer/
