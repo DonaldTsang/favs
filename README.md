@@ -302,5 +302,7 @@ https://github.com/languagetool-org/languagetool
 - https://github.com/ccd0/4chan-x (tooling)
 - https://github.com/KevinParnell/OneeChan (Rice and themes)
 
-## The best all-in-one shell - OhMyZsh
-- https://github.com/ohmyzsh/ohmyzsh
+## The best shell tool
+- https://github.com/ohmyzsh/ohmyzsh (all-in-one)
+- https://github.com/tldr-pages/tldr (Man Pages)
+- https://github.com/dylanaraps/pure-bash-bible (Scripting)
