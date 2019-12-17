@@ -301,3 +301,6 @@ https://github.com/languagetool-org/languagetool
 - https://github.com/desudesutalk/desudesutalk (Steganography)
 - https://github.com/ccd0/4chan-x (tooling)
 - https://github.com/KevinParnell/OneeChan (Rice and themes)
+
+## The best all-in-one shell - OhMyZsh
+- https://github.com/ohmyzsh/ohmyzsh
