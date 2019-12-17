@@ -294,3 +294,6 @@ https://github.com/languagetool-org/languagetool
 
 ## The best phone diary/journaling app
 - https://github.com/hanjoongcho/aaf-easydiary
+
+## Best additions to imageboards
+- https://github.com/catamphetamine/captchan (GUI layer)
