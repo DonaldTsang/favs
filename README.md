@@ -297,3 +297,4 @@ https://github.com/languagetool-org/languagetool
 
 ## Best additions to imageboards
 - https://github.com/catamphetamine/captchan (GUI layer)
+- https://github.com/ccd0/imageboards.json (Imageboard database)
