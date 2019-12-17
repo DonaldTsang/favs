@@ -306,3 +306,6 @@ https://github.com/languagetool-org/languagetool
 - https://github.com/ohmyzsh/ohmyzsh (all-in-one)
 - https://github.com/tldr-pages/tldr (Man Pages)
 - https://github.com/dylanaraps/pure-bash-bible (Scripting)
+
+## The best adblocking tools
+- https://github.com/pi-hole/pi-hole
