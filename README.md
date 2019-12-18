@@ -323,3 +323,10 @@ https://github.com/languagetool-org/languagetool
 - https://github.com/vuejs/eslint-plugin-vue (Linting Vue)
 - https://github.com/prettier/prettier (Autoformatting JS+Vue)
 - https://github.com/standard/standard (autoformatting)
+
+## The best User Stories
+- (As a...) When I am... I want... so that...
+  - https://digitalapprenticeships.jiscinvolve.org/wp/2018/02/23/as-a-when-i-am-i-want-to-so-that-i-can/
+  - https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27)
+- In order to..., As a... I want...; Whereas currently... / Instead of...
+  - https://blog.crisp.se/2014/09/25/david-evans/as-a-i-want-so-that-considered-harmful
