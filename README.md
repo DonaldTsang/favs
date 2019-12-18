@@ -319,5 +319,6 @@ https://github.com/languagetool-org/languagetool
 - https://github.com/goodtime-productivity/Goodtime
 
 ## The best JS + Vue Linter
-- https://github.com/eslint/eslint
-- https://github.com/vuejs/eslint-plugin-vue
+- https://github.com/eslint/eslint (Linting JS)
+- https://github.com/vuejs/eslint-plugin-vue (Linting Vue)
+- https://github.com/prettier/prettier (Autoformatting JS+Vue)
