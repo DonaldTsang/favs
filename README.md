@@ -270,11 +270,6 @@ https://github.com/languagetool-org/languagetool
 - https://github.com/pastpages/archiveis (Python)
 - https://github.com/rahiel/archiveror (JS Exntension)
 
-## The best Python formatter+linter
-- https://github.com/psf/black
-- https://github.com/google/yapf
-- https://github.com/wemake-services/wemake-python-styleguide
-
 ## The most beatutiful chaotic system - Tinkerbell
 - https://en.wikipedia.org/wiki/Tinkerbell_map
 
@@ -316,6 +311,13 @@ https://github.com/languagetool-org/languagetool
 - https://zapier.com/blog/flowtime-technique/
 - (Never trust the 25/5 regime since it breaks the flow of coding)
 - https://github.com/goodtime-productivity/Goodtime
+
+## The best Python formatter+linter
+- https://github.com/psf/black (formatter)
+- https://github.com/google/yapf (formatter)
+- https://github.com/PyCQA/pylint (lint with formatter plugins)
+- https://github.com/wemake-services/wemake-python-styleguide (lint with formatter plugins)
+- https://github.com/hhatto/autopep8 (base formatter)
 
 ## The best JS + Vue Linter
 - https://github.com/eslint/eslint (Linting JS)
