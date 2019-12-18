@@ -273,7 +273,6 @@ https://github.com/languagetool-org/languagetool
 ## The best Python formatter+linter
 - https://github.com/psf/black
 - https://github.com/google/yapf
-- https://github.com/PyCQA/pylint
 - https://github.com/wemake-services/wemake-python-styleguide
 
 ## The most beatutiful chaotic system - Tinkerbell
