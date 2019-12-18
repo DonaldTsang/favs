@@ -273,9 +273,7 @@ https://github.com/languagetool-org/languagetool
 ## The best Python formatter+linter
 - https://github.com/psf/black
 - https://github.com/google/yapf
-- https://github.com/hhatto/autopep8
-- https://github.com/coala/coala
-- https://github.com/PyCQA/pylint and https://github.com/PyCQA/pyflakes and https://github.com/PyCQA/bandit
+- https://github.com/PyCQA/pylint
 - https://github.com/wemake-services/wemake-python-styleguide
 
 ## The most beatutiful chaotic system - Tinkerbell
@@ -319,3 +317,7 @@ https://github.com/languagetool-org/languagetool
 - https://zapier.com/blog/flowtime-technique/
 - (Never trust the 25/5 regime since it breaks the flow of coding)
 - https://github.com/goodtime-productivity/Goodtime
+
+## The best JS + Vue Linter
+- https://github.com/eslint/eslint
+- https://github.com/vuejs/eslint-plugin-vue
