@@ -318,3 +318,4 @@ https://github.com/languagetool-org/languagetool
 - https://www.sourcecon.com/2-geeky-tools-to-manage-your-sourcing-tasks/
 - https://zapier.com/blog/flowtime-technique/
 - (Never trust the 25/5 regime since it breaks the flow of coding)
+- https://github.com/goodtime-productivity/Goodtime
