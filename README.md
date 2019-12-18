@@ -313,13 +313,13 @@ https://github.com/languagetool-org/languagetool
 - https://github.com/goodtime-productivity/Goodtime
 
 ## The best Python formatter+linter
-- https://github.com/psf/black (formatter)
-- https://github.com/google/yapf (formatter)
 - https://github.com/PyCQA/pylint (lint with formatter plugins)
 - https://github.com/wemake-services/wemake-python-styleguide (lint with formatter plugins)
-- https://github.com/hhatto/autopep8 (base formatter)
+- https://github.com/psf/black (formatter)
+- https://github.com/google/yapf (formatter)
 
 ## The best JS + Vue Linter
 - https://github.com/eslint/eslint (Linting JS)
 - https://github.com/vuejs/eslint-plugin-vue (Linting Vue)
 - https://github.com/prettier/prettier (Autoformatting JS+Vue)
+- https://github.com/standard/standard (autoformatting)
