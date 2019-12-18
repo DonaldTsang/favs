@@ -55,7 +55,9 @@ my favorite software repos
 - Java https://github.com/ChanceReb/elsie-cipher
 
 ## The best elliptic curve - Ed448
-- C https://github.com/otrv4/libgoldilocks
+- C
+  - https://github.com/otrv4/libgoldilocks
+  - https://github.com/armfazh/fld-ecc-vec
 - Golang
   - https://github.com/otrv4/ed448
   - https://github.com/olabini/goldilocks
