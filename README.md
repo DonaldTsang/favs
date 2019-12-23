@@ -326,6 +326,9 @@ https://github.com/languagetool-org/languagetool
 - https://github.com/prettier/prettier (Autoformatting JS+Vue)
 - https://github.com/standard/standard (autoformatting)
 
+## We weird quirks of Python
+- https://github.com/satwikkansal/wtfpython
+
 ## The best User Stories
 - (As a...) When I am... I want... so that...
   - https://digitalapprenticeships.jiscinvolve.org/wp/2018/02/23/as-a-when-i-am-i-want-to-so-that-i-can/
