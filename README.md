@@ -305,14 +305,25 @@ https://github.com/languagetool-org/languagetool
 - https://github.com/pi-hole/pi-hole
 
 ## The best Programming timebox - modified pomodoro
-- https://www.softwaremeadows.com/posts/the_50-10_time_box_revising_pomodoro_for_software_development/
-- https://www.lesswrong.com/posts/c3SKeDSycHTkmuvyR/pomodoro-for-programmers
-- https://programmingzen.com/getting-stuff-done-with-the-pomodoro-technique/
-- https://dzone.com/articles/the-subtle-art-of-giving-your-programming-self-a-b
-- https://www.sourcecon.com/2-geeky-tools-to-manage-your-sourcing-tasks/
-- https://zapier.com/blog/flowtime-technique/
-- (Never trust the 25/5 regime since it breaks the flow of coding)
-- https://github.com/goodtime-productivity/Goodtime
+- https://github.com/goodtime-productivity/Goodtime (the application)
+- 50/10 (preferred)
+  - https://www.softwaremeadows.com/posts/the_50-10_time_box_revising_pomodoro_for_software_development/
+  - https://programmingzen.com/getting-stuff-done-with-the-pomodoro-technique/
+  - https://boomtownaccelerators.com/timeboxing-the-most-amazing-tool-ever/
+  - https://litemind.com/time-boxing/
+  - http://johnwrichardson.com/50-minute-solution-live-longer-get-done/
+  - https://github.com/rkulla/unitaskr
+- 48/12
+  - https://fireuptoday.com/the-power-of-48-minutes/
+  - http://johnwrichardson.com/50-minute-solution-live-longer-get-done/
+- 45/15
+  - https://www.lesswrong.com/posts/c3SKeDSycHTkmuvyR/pomodoro-for-programmers
+  - https://medium.com/dreimannzelt-adventures/7-secrets-to-master-timeboxing-66a744ea9175
+- 45/10
+  - https://www.sourcecon.com/2-geeky-tools-to-manage-your-sourcing-tasks/
+  - http://mattmccormick.ca/increase-your-productivity-work-in-45-minute-blocks/
+- 40/5
+  - https://remembereverything.org/time-boxing/
 
 ## The best Python formatter+linter
 - https://github.com/PyCQA/pylint (lint with formatter plugins)
