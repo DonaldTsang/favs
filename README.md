@@ -340,6 +340,9 @@ https://github.com/languagetool-org/languagetool
 ## We weird quirks of Python
 - https://github.com/satwikkansal/wtfpython
 
+## The best repos for Version Control
+- https://github.com/sdg-mit/gitless
+
 ## The best User Stories
 - (As a...) When I am... I want... so that...
   - https://digitalapprenticeships.jiscinvolve.org/wp/2018/02/23/as-a-when-i-am-i-want-to-so-that-i-can/
