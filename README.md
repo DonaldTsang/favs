@@ -84,7 +84,7 @@ my favorite software repos
 ## The best barcodes - Color barcodes
 - https://github.com/jabcode/jabcode
 - https://github.com/ouyangzhibo/HiQ-Robust-and-Fast-Decoding-of-High-Capacity-Color-QR-Codes
-- https://github.com/quake0day/CobraKing
+- https://github.com/opencv/opencv/issues/13256
 
 ## The best moving barcodes - TxQR
 - https://github.com/divan/txqr
