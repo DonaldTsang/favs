@@ -319,6 +319,7 @@ https://github.com/languagetool-org/languagetool
 - 45/15
   - https://www.lesswrong.com/posts/c3SKeDSycHTkmuvyR/pomodoro-for-programmers
   - https://medium.com/dreimannzelt-adventures/7-secrets-to-master-timeboxing-66a744ea9175
+  - https://www.alexstrick.com/blog/2016/9/phd-tools-vitamin-r-and-the-pomodoro-technique-for-getting-going
 - 45/10
   - https://www.sourcecon.com/2-geeky-tools-to-manage-your-sourcing-tasks/
   - http://mattmccormick.ca/increase-your-productivity-work-in-45-minute-blocks/
