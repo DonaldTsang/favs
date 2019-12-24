@@ -324,6 +324,10 @@ https://github.com/languagetool-org/languagetool
   - http://mattmccormick.ca/increase-your-productivity-work-in-45-minute-blocks/
 - 40/5
   - https://remembereverything.org/time-boxing/
+- Flowtime
+  - https://zapier.com/blog/flowtime-technique/
+- Personal Hackathon
+  - https://www.personalhackathon.com
 
 ## The best Python formatter+linter
 - https://github.com/PyCQA/pylint (lint with formatter plugins)
