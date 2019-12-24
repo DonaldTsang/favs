@@ -345,6 +345,11 @@ https://github.com/languagetool-org/languagetool
 
 ## The best memory tool
 - https://github.com/dae/anki
+- NihongoShark https://ankiweb.net/shared/info/1956010956
+- AIO Kanji https://ankiweb.net/shared/info/798002504
+- JTest4You https://ankiweb.net/shared/info/1696628291
+- Genki https://ankiweb.net/shared/info/1758197267
+- Tae Kim https://ankiweb.net/shared/info/712638578
 
 ## The best User Stories
 - (As a...) When I am... I want... so that...
