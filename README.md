@@ -306,7 +306,11 @@ https://github.com/languagetool-org/languagetool
 - https://github.com/pi-hole/pi-hole
 
 ## The best Programming timebox - modified pomodoro
-- https://github.com/goodtime-productivity/Goodtime (the application)
+- apps
+  - android https://github.com/goodtime-productivity/Goodtime
+  - desktop https://github.com/Splode/pomotroid
+  - chromium https://github.com/schmich/marinara
+  - CLI https://github.com/mehdidc/pomodoro
 - 50/10 (preferred)
   - https://www.softwaremeadows.com/posts/the_50-10_time_box_revising_pomodoro_for_software_development/
   - https://programmingzen.com/getting-stuff-done-with-the-pomodoro-technique/
