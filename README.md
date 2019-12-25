@@ -343,8 +343,9 @@ https://github.com/languagetool-org/languagetool
 - https://github.com/prettier/prettier (Autoformatting JS+Vue)
 - https://github.com/standard/standard (autoformatting)
 
-## We weird quirks of Python
+## We weird quirks of Python and JS
 - https://github.com/satwikkansal/wtfpython
+- https://github.com/denysdovhan/wtfjs
 
 ## The best repos for Version Control
 - https://github.com/sdg-mit/gitless
