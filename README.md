@@ -380,3 +380,10 @@ https://github.com/languagetool-org/languagetool
   - https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27)
 - In order to..., As a... I want...; Whereas currently... / Instead of...
   - https://blog.crisp.se/2014/09/25/david-evans/as-a-i-want-so-that-considered-harmful
+
+## The best mobile chan app
+- https://github.com/chandevel/Clover
+- https://github.com/f77/Dashchan
+- https://github.com/AliceCA/Overchan-Android
+  - fork https://github.com/overchan-project/Overchan-Android
+  - also https://github.com/Eilhart/Overchan-Android
