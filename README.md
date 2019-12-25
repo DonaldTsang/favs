@@ -383,6 +383,7 @@ https://github.com/languagetool-org/languagetool
 
 ## The best mobile chan app
 - https://github.com/chandevel/Clover
+  - fork https://github.com/Adamantcheese/Kuroba
 - https://github.com/f77/Dashchan
 - https://github.com/AliceCA/Overchan-Android
   - fork https://github.com/overchan-project/Overchan-Android
