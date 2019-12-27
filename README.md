@@ -397,3 +397,8 @@ https://github.com/languagetool-org/languagetool
 ## The one stop solution to archiving the net
 - https://github.com/pirate/ArchiveBox
 
+## The best ad-blocker
+- https://github.com/gorhill/uBlock
+- https://github.com/reek/anti-adblock-killer
+- https://github.com/EFForg/privacybadger (simplified)
+- https://github.com/gorhill/uMatrix (more fine grained)
