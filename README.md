@@ -302,9 +302,6 @@ https://github.com/languagetool-org/languagetool
 - https://github.com/tldr-pages/tldr (Man Pages)
 - https://github.com/koalaman/shellcheck (Shell linting)
 
-## The best adblocking tools
-- https://github.com/pi-hole/pi-hole
-
 ## The best Programming timebox - modified pomodoro
 - apps
   - android https://github.com/goodtime-productivity/Goodtime
@@ -402,3 +399,5 @@ https://github.com/languagetool-org/languagetool
 - https://github.com/reek/anti-adblock-killer
 - https://github.com/EFForg/privacybadger (simplified)
 - https://github.com/gorhill/uMatrix (more fine grained)
+- https://github.com/blokadaorg/blokada (android)
+- https://github.com/pi-hole/pi-hole (network-wide)
