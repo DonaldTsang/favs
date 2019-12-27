@@ -376,6 +376,11 @@ https://github.com/languagetool-org/languagetool
   - Tae Kim https://ankiweb.net/shared/info/712638578
   - Tobira  https://ankiweb.net/shared/info/838871450
 
+## The best Japanese learning resources
+- https://djtguide.neocities.org/
+- https://itazuraneko.neocities.org/
+- https://core6000.neocities.org/
+
 ## The best User Stories
 - (As a...) When I am... I want... so that...
   - https://digitalapprenticeships.jiscinvolve.org/wp/2018/02/23/as-a-when-i-am-i-want-to-so-that-i-can/
