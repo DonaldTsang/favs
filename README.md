@@ -410,7 +410,7 @@ https://github.com/languagetool-org/languagetool
 ## The best Wiki software
 - https://github.com/Requarks/wiki
 
-## The best 60% keyboard with Linux support
+## The best 60% 61-key keyboard with Linux support
 - GK61 
   - original http://www.jikedingzhi.com/downloadlist?driverID=41latest
   - https://github.com/pixeltris/GK6X (Win, OSX, Linux)
@@ -418,3 +418,4 @@ https://github.com/languagetool-org/languagetool
   - original http://www.motospeed.cc/index.php?ac=article&at=read&did=506
   - https://github.com/Francesco149/stupidlayers (Linux)
   - https://github.com/saragiotto/ck62LayerFix (Linux)
+- Anything more than 61 keys is BLOAT
