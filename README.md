@@ -406,3 +406,6 @@ https://github.com/languagetool-org/languagetool
 - https://github.com/gorhill/uMatrix (more fine grained)
 - https://github.com/blokadaorg/blokada (android)
 - https://github.com/pi-hole/pi-hole (network-wide)
+
+## The best Wiki software
+- https://github.com/Requarks/wiki
