@@ -411,7 +411,10 @@ https://github.com/languagetool-org/languagetool
 - https://github.com/Requarks/wiki
 
 ## The best 60% keyboard with Linux support
-- GK61 https://github.com/pixeltris/GK6X (Win, OSX, Linux)
+- GK61 
+  - original http://www.jikedingzhi.com/downloadlist?driverID=41latest
+  - https://github.com/pixeltris/GK6X (Win, OSX, Linux)
 - CK62
+  - original http://www.motospeed.cc/index.php?ac=article&at=read&did=506
   - https://github.com/Francesco149/stupidlayers (Linux)
   - https://github.com/saragiotto/ck62LayerFix (Linux)
