@@ -409,3 +409,9 @@ https://github.com/languagetool-org/languagetool
 
 ## The best Wiki software
 - https://github.com/Requarks/wiki
+
+## The best 60% keyboard with Linux support
+- GK61 https://github.com/pixeltris/GK6X (Win, OSX, Linux)
+- CK62
+  - https://github.com/Francesco149/stupidlayers (Linux)
+  - https://github.com/saragiotto/ck62LayerFix (Linux)
