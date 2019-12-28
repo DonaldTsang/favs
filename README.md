@@ -422,4 +422,3 @@ https://github.com/languagetool-org/languagetool
 - RK61 has broken /? keys and there is no way of fixing it in Linux
 - CK61 and DK61 has no Linux software that comes with it in GitHub
 - anything over 50USD (in 2016~2020 dollars) are overpriced
-- 
