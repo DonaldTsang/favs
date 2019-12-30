@@ -431,3 +431,7 @@ https://github.com/languagetool-org/languagetool
 - Source of inspiration https://github.com/facebookresearch/detectron2
 - Tool https://github.com/KichangKim/DeepDanbooru
 - Visualization https://github.com/halcy/DeepDanbooruActivationMaps
+- Counterpoints
+  - https://github.com/tensorflow/cleverhans
+  - https://github.com/bethgelab/foolbox
+  - https://github.com/advboxes/AdvBox
