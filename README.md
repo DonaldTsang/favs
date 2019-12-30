@@ -196,8 +196,10 @@ my favorite software repos
 - Anti-OCR http://www.imprintlab.com/z-x-x/
 - OCR proofreading https://www.pgdp.net/c/faq/font_sample.php
 
-## The best CJK font generator - zi2zi
-- https://github.com/kaonashi-tyc/zi2zi
+## The best CJK
+- font generator https://github.com/kaonashi-tyc/zi2zi
+- radical API https://github.com/patarapolw/cjkradlib
+- radical database https://github.com/cjkvi/cjkvi-ids
 
 ## The best middle finger to YouTube
 - https://github.com/ytdl-org/youtube-dl (Downloader)
