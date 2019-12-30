@@ -426,3 +426,8 @@ https://github.com/languagetool-org/languagetool
 - CK61 and DK61 has no Linux software that comes with it in GitHub
 - dunno about Ajazz and Maibenben 61 key keyboards tho
 - anything over 50USD (in 2016~2020 dollars) are overpriced
+
+## The best image region tagging
+- Source of inspiration https://github.com/facebookresearch/detectron2
+- Tool https://github.com/KichangKim/DeepDanbooru
+- Visualization https://github.com/halcy/DeepDanbooruActivationMaps
