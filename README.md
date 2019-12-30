@@ -200,6 +200,7 @@ my favorite software repos
 - font generator https://github.com/kaonashi-tyc/zi2zi
 - radical API https://github.com/patarapolw/cjkradlib
 - radical database https://github.com/cjkvi/cjkvi-ids
+- simplified detection https://github.com/tsroten/hanzidentifier
 
 ## The best middle finger to YouTube
 - https://github.com/ytdl-org/youtube-dl (Downloader)
