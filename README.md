@@ -360,6 +360,7 @@ https://github.com/languagetool-org/languagetool
 
 ## The best repos for Version Control
 - https://github.com/sdg-mit/gitless
+- https://github.com/frostming/legit
 
 ## The best memory tool
 - Desktop https://github.com/dae/anki
