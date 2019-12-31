@@ -435,3 +435,13 @@ https://github.com/languagetool-org/languagetool
   - https://github.com/tensorflow/cleverhans
   - https://github.com/bethgelab/foolbox
   - https://github.com/advboxes/AdvBox
+
+## The best audio fingerprinting
+- Python https://github.com/worldveil/dejavu
+- JS https://github.com/adblockradio/stream-audio-fingerprint
+- C++ https://github.com/acoustid/chromaprint
+- C# https://github.com/AddictedCS/soundfingerprinting
+- C++ https://github.com/spotify/echoprint-codegen
+- Python https://github.com/dpwe/audfprint
+- C++ https://github.com/JiahuiYu/audio_recognition
+- Python https://github.com/itspoma/audio-fingerprint-identifying-python
