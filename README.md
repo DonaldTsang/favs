@@ -248,7 +248,10 @@ my favorite software repos
 
 ## The best Image Tools
 - https://github.com/thorn-oss/perception (Perceptive Hash)
-- https://github.com/mdbloice/Augmentor (Image Augmentation)
+-  Image Augmentation
+  - https://github.com/aleju/imgaug
+  - https://github.com/albumentations-team/albumentations
+  - https://github.com/mdbloice/Augmentor
 - https://github.com/DominicBreuker/stego-toolkit (Steganography)
 
 ## Best text management tools
