@@ -253,6 +253,10 @@ my favorite software repos
   - https://github.com/albumentations-team/albumentations
   - https://github.com/mdbloice/Augmentor
 - https://github.com/DominicBreuker/stego-toolkit (Steganography)
+- Denoising
+  - https://github.com/yu4u/noise2noise
+  - https://github.com/GuoShi28/CBDNet
+  - https://github.com/wbhu/DnCNN-tensorflow
 
 ## Best text management tools
 - https://github.com/Ousret/charset_normalizer (Character Encoding and language detector)
