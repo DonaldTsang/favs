@@ -257,6 +257,7 @@ my favorite software repos
   - https://github.com/yu4u/noise2noise
   - https://github.com/GuoShi28/CBDNet
   - https://github.com/wbhu/DnCNN-tensorflow
+  - some info https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art/
 
 ## Best text management tools
 - https://github.com/Ousret/charset_normalizer (Character Encoding and language detector)
