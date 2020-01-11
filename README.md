@@ -198,6 +198,10 @@ my favorite software repos
 
 ## The best CJK
 - font generator https://github.com/kaonashi-tyc/zi2zi
+- font dataset https://blog.usejournal.com/making-of-a-chinese-characters-dataset-92d4065cc7cc
+- handwriting datasets
+  - http://www.nlpr.ia.ac.cn/databases/handwriting/Home.html
+  - http://etlcdb.db.aist.go.jp/
 - radical API https://github.com/patarapolw/cjkradlib
 - radical database https://github.com/cjkvi/cjkvi-ids
 - simplified detection https://github.com/tsroten/hanzidentifier
