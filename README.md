@@ -269,6 +269,9 @@ my favorite software repos
   - https://github.com/CeLuigi/models-comparison.pytorch
   - https://github.com/aussetg/nasnet.pytorch
 - semantic segmentation https://github.com/mrgloom/awesome-semantic-segmentation
+- manual image annotation
+  - https://github.com/tzutalin/labelImg
+  - https://github.com/wkentaro/labelme
 
 ## Best text management tools
 - https://github.com/Ousret/charset_normalizer (Character Encoding and language detector)
