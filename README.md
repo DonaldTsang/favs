@@ -254,7 +254,7 @@ my favorite software repos
 
 ## The best Image Tools
 - https://github.com/thorn-oss/perception (Perceptive Hash)
--  Image Augmentation
+- Image Augmentation
   - https://github.com/aleju/imgaug
   - https://github.com/albumentations-team/albumentations
   - https://github.com/mdbloice/Augmentor
@@ -268,6 +268,7 @@ my favorite software repos
   - https://github.com/BertMoons/Comparing-CNN-Architectures
   - https://github.com/CeLuigi/models-comparison.pytorch
   - https://github.com/aussetg/nasnet.pytorch
+- semantic segmentation https://github.com/mrgloom/awesome-semantic-segmentation
 
 ## Best text management tools
 - https://github.com/Ousret/charset_normalizer (Character Encoding and language detector)
