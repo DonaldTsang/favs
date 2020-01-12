@@ -264,6 +264,10 @@ my favorite software repos
   - https://github.com/GuoShi28/CBDNet
   - https://github.com/wbhu/DnCNN-tensorflow
   - some info https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art/
+- image architecture
+  - https://github.com/BertMoons/Comparing-CNN-Architectures
+  - https://github.com/CeLuigi/models-comparison.pytorch
+  - https://github.com/aussetg/nasnet.pytorch
 
 ## Best text management tools
 - https://github.com/Ousret/charset_normalizer (Character Encoding and language detector)
