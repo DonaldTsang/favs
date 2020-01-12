@@ -471,3 +471,7 @@ https://github.com/languagetool-org/languagetool
 - Denoising
   - https://github.com/francoisgermain/SpeechDenoisingWithDeepFeatureLosses
   - https://github.com/drethage/speech-denoising-wavenet
+
+## The best GAN collection
+- Actually usable https://github.com/kozistr/Awesome-GANs
+- Longer listing https://github.com/nightrome/really-awesome-gan
