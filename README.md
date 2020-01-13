@@ -57,6 +57,7 @@ my favorite software repos
 
 ## The best elliptic curve - Ed448
 - C
+  - https://github.com/coruus/ed448-goldilocks (RIP coruus)
   - https://github.com/otrv4/libgoldilocks
   - https://github.com/armfazh/fld-ecc-vec
 - Golang
