@@ -128,6 +128,7 @@ my favorite software repos
 
 ## The best browser - UnGoogled Chromium
 - https://github.com/Eloston/ungoogled-chromium
+- If you can't handle it https://github.com/gab-ai-inc
 
 ## The best hashes - SHA3 competition round 2 and finalists
 - C and Java
