@@ -473,7 +473,10 @@ https://github.com/languagetool-org/languagetool
 - Python https://github.com/itspoma/audio-fingerprint-identifying-python
 
 ## The best voice cloning tools
-- Cloning https://github.com/CorentinJ/Real-Time-Voice-Cloning
+- Cloning
+  - https://github.com/CorentinJ/Real-Time-Voice-Cloning
+  - https://github.com/andabi/deep-voice-conversion
+  - https://github.com/r9y9/wavenet_vocoder
 - Super Resolution https://github.com/kuleshov/audio-super-res
 - Denoising
   - https://github.com/francoisgermain/SpeechDenoisingWithDeepFeatureLosses
