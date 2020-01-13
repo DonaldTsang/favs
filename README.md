@@ -1,7 +1,7 @@
 # favs
 my favorite software repos
 
-## The best data foramt - JSON5
+## The best data format - JSON5
 - https://json5.org/
 - https://github.com/json5/json5 (JS)
 - https://github.com/rlidwka/jju (JS utility)
