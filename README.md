@@ -272,7 +272,12 @@ my favorite software repos
   - https://github.com/BertMoons/Comparing-CNN-Architectures
   - https://github.com/CeLuigi/models-comparison.pytorch
   - https://github.com/aussetg/nasnet.pytorch
-- semantic segmentation https://github.com/mrgloom/awesome-semantic-segmentation
+- semantic segmentation
+  - https://github.com/mrgloom/awesome-semantic-segmentation
+  - pre-cursor https://github.com/amusi/awesome-object-detection
+  - and also https://github.com/hoya012/deep_learning_object_detection
+  - also do some reading on "instance segmentation" and "region proposal"
+  - example repo https://github.com/facebookresearch/detectron2
 - manual image annotation
   - https://github.com/tzutalin/labelImg
   - https://github.com/wkentaro/labelme
