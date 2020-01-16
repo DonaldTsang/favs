@@ -283,6 +283,15 @@ my favorite software repos
   - https://github.com/tzutalin/labelImg
   - https://github.com/wkentaro/labelme
 
+## The best image region tagging
+- Source of inspiration https://github.com/facebookresearch/detectron2
+- Tool https://github.com/KichangKim/DeepDanbooru
+- Visualization https://github.com/halcy/DeepDanbooruActivationMaps
+- Counterpoints
+  - https://github.com/tensorflow/cleverhans
+  - https://github.com/bethgelab/foolbox
+  - https://github.com/advboxes/AdvBox
+
 ## Best text management tools
 - https://github.com/Ousret/charset_normalizer (Character Encoding and language detector)
 - https://github.com/life4/textdistance (text comparison and phonetic encoding)
@@ -459,15 +468,6 @@ https://github.com/languagetool-org/languagetool
 - CK61 and DK61 has no Linux software that comes with it in GitHub
 - dunno about Ajazz and Maibenben 61 key keyboards tho
 - anything over 50USD (in 2016~2020 dollars) are overpriced
-
-## The best image region tagging
-- Source of inspiration https://github.com/facebookresearch/detectron2
-- Tool https://github.com/KichangKim/DeepDanbooru
-- Visualization https://github.com/halcy/DeepDanbooruActivationMaps
-- Counterpoints
-  - https://github.com/tensorflow/cleverhans
-  - https://github.com/bethgelab/foolbox
-  - https://github.com/advboxes/AdvBox
 
 ## The best audio fingerprinting
 - Python https://github.com/worldveil/dejavu
