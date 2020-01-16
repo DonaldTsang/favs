@@ -492,3 +492,6 @@ https://github.com/languagetool-org/languagetool
 ## The best GAN collection
 - Actually usable https://github.com/kozistr/Awesome-GANs
 - Longer listing https://github.com/nightrome/really-awesome-gan
+
+## The best explanation regarding Ensemble methods
+- https://www.kdnuggets.com/2017/11/difference-bagging-boosting.html
