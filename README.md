@@ -501,3 +501,9 @@ https://github.com/languagetool-org/languagetool
 
 ## The best explanation regarding Ensemble methods
 - https://www.kdnuggets.com/2017/11/difference-bagging-boosting.html
+
+
+### The best Dungeon game
+- https://github.com/AIDungeon/AIDungeon
+- wat https://github.com/cloveranon/Clover-Edition
+- WAT https://aidungeonpastes.github.io/AID2-Art/
