@@ -272,7 +272,7 @@ my favorite software repos
 - image architecture
   - https://github.com/BertMoons/Comparing-CNN-Architectures
   - https://github.com/CeLuigi/models-comparison.pytorch
-  - https://github.com/aussetg/nasnet.pytorch
+  - https://github.com/yeephycho/nasnet-tensorflow
 - semantic segmentation
   - https://github.com/mrgloom/awesome-semantic-segmentation
   - pre-cursor https://github.com/amusi/awesome-object-detection
