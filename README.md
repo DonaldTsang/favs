@@ -425,9 +425,12 @@ https://github.com/languagetool-org/languagetool
 - https://djtguide.neocities.org/
 - https://itazuraneko.neocities.org/
 - https://core6000.neocities.org/
-- Training Japanese-English pair for Programmers
+- Training Japanese-English pair for Lisp Programmers
   - Japanese https://sicp.iijlab.net/fulltext/xcont.html
   - English https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html
+- Training Japanese-English pair for Python Programmers
+  - Japanese http://www.cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython2.pdf
+  - English http://greenteapress.com/thinkpython2/thinkpython2.pdf
 
 ## The best User Stories
 - (As a...) When I am... I want... so that...
