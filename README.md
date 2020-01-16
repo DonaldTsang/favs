@@ -425,6 +425,9 @@ https://github.com/languagetool-org/languagetool
 - https://djtguide.neocities.org/
 - https://itazuraneko.neocities.org/
 - https://core6000.neocities.org/
+- Training Japanese-English pair for Programmers
+  - Japanese https://sicp.iijlab.net/fulltext/xcont.html
+  - English https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html
 
 ## The best User Stories
 - (As a...) When I am... I want... so that...
