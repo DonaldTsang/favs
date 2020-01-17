@@ -208,8 +208,13 @@ my favorite software repos
 ## The best CJK
 - font generator https://github.com/kaonashi-tyc/zi2zi
 - font dataset
-  - https://chinesefontdesign.com
-  - https://www.freechinesefont.com/
+  - 2800+ fonts http://www.zhaozi.cn/ai/2019/fontlist.php?ph=1&classid=35&softsq=%E5%85%B1%E4%BA%AB%E5%AD%97%E4%BD%93
+  - 2200+ fonts https://chinesefontdesign.com/category/chinese-font
+  - 200+ fonts https://www.uisdc.com/200-models-free-commercial-fonts
+  - 200+ fonts http://www.fonts.net.cn/commercial-free-1/fonts-zh-1.html
+  - 160+ fonts https://www.freechinesefont.com/
+  - 140+ fonts https://www.zitijia.com/t/%E5%85%8D%E8%B4%B9%E5%95%86%E7%94%A8
+  - http://www.ypppt.com/ziti/ and http://www.sj00.com/fonts/Chinese_fonts/
 - handwriting datasets
   - http://www.nlpr.ia.ac.cn/databases/handwriting/Home.html
   - http://etlcdb.db.aist.go.jp/
