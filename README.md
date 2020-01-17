@@ -158,6 +158,7 @@ my favorite software repos
 - SHA3 (Keccak) https://keccak.team/files/Keccak-reference-3.0.pdf
   - KangarooTwelve https://keccak.team/files/KangarooTwelve.pdf
 - BLAKE2 https://blake2.net/blake2.pdf
+  - BLAKE2 https://131002.net/blake/blake.pdf
   - BLAKE3 https://github.com/BLAKE3-team/BLAKE3-specs/blob/master/blake3.pdf
 - Skein http://www.skein-hash.info/sites/default/files/skein1.3.pdf
 - Groestl http://www.groestl.info/Groestl.pdf
