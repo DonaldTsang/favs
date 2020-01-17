@@ -286,6 +286,11 @@ my favorite software repos
 - manual image annotation
   - https://github.com/tzutalin/labelImg
   - https://github.com/wkentaro/labelme
+- Super-resolution
+  - active test https://github.com/icpm/super-resolution
+  - https://github.com/YapengTian/Single-Image-Super-Resolution
+  - https://github.com/huangzehao/Super-Resolution.Benckmark
+  - https://github.com/ChaofWang/Awesome-Super-Resolution
 
 ## The best image region tagging
 - Source of inspiration https://github.com/facebookresearch/detectron2
