@@ -1,6 +1,8 @@
 # favs
 my favorite software repos
 
+### [Cryptography](crypto.md)
+
 ## The best data format - JSON5
 - https://json5.org/
 - https://github.com/json5/json5 (JS)
