@@ -40,7 +40,7 @@
 ## The best crypto library - LibTomCrypt
 - https://github.com/libtom/libtomcrypt
 
-## The best sponge functions - Keccak and NORX
+## The best sponge functions - NORX
 - NORX
   - https://github.com/norx/resources
   - https://github.com/Daeinar/norx-py (Python)
