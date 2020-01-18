@@ -44,3 +44,9 @@
   - https://github.com/tensorflow/cleverhans
   - https://github.com/bethgelab/foolbox
   - https://github.com/advboxes/AdvBox
+
+## The best forbidden obfuscation software - GMask
+- C++ https://github.com/kunstmusik/cmask
+- Go https://github.com/fggp/gmask
+- Python https://github.com/GunioRobot/pymask
+- JS https://github.com/julianwachholz/wmask
