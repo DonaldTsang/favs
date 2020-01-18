@@ -2,6 +2,7 @@
 my favorite software repos
 
 ### [Cryptography](crypto.md)
+### [Image Manipulation](image.md)
 
 ## The best data format - JSON5
 - https://json5.org/
