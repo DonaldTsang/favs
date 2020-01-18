@@ -1,6 +1,7 @@
 # favs
 my favorite software repos
 
+### [Audio](audio.md)
 ### [Cryptography](crypto.md)
 ### [Image Manipulation](image.md)
 ### [Self Care](self-care.md)
