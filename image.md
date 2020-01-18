@@ -1,3 +1,6 @@
+## Best Image Format - JPEG-XL
+- https://github.com/google/brunsli
+
 ## The best Perceptive Hash Tool
 - https://github.com/thorn-oss/perception
 
