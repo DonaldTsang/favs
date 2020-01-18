@@ -12,6 +12,9 @@
 - CK61 and DK61 has no Linux software that comes with it in GitHub
 - dunno about Ajazz and Maibenben 61 key keyboards tho
 - anything over 50USD (in 2016~2020 dollars) are overpriced
+- Anne Pro 2 (expensive)
+  - https://github.com/ah-/anne-key
+- Nothing on SK61 or Feker or iQuinx F60 (expensive)
 
 ## The best Laptop
 - Thinkpads
