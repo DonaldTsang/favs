@@ -75,8 +75,6 @@
   - https://github.com/K2/HashLib
   - https://github.com/mythrill/HashLib
   - https://github.com/brandonlehmann/HashLib
-- Ada
-  - https://github.com/hopped/darxplorer
 
 ## The best hash documentation
 - SHA2 https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf
