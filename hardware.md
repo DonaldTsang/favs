@@ -6,6 +6,7 @@
   - original http://www.motospeed.cc/index.php?ac=article&at=read&did=506
   - https://github.com/Francesco149/stupidlayers (Linux)
   - https://github.com/saragiotto/ck62LayerFix (Linux)
+  - https://github.com/marcelxsilva/motospeed-ck61-atalhos-teclado (???)
 - Anything more than 61 keys is BLOAT
 - RK61 has broken /? keys and there is no way of fixing it in Linux
 - CK61 and DK61 has no Linux software that comes with it in GitHub
