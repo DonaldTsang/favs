@@ -31,3 +31,8 @@
   - https://zapier.com/blog/flowtime-technique/
 - Personal Hackathon
   - https://www.personalhackathon.com
+
+## The best Big Five Questionerre
+- https://github.com/Alheimsins/b5-50-ipip-neo-pi-r
+- https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r
+- https://github.com/Alheimsins/b5-costa-mccrae-300-ipip-neo-pi-r
