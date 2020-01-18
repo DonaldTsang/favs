@@ -97,9 +97,6 @@ my favorite software repos
 - https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r
 - https://github.com/Alheimsins/b5-costa-mccrae-300-ipip-neo-pi-r
 
-## Best Image Format - JPEG-XL
-- https://github.com/google/brunsli
-
 ## The best file detection system
 - https://github.com/openpreserve/fido/issues/173
 
