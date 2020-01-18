@@ -101,7 +101,7 @@ my favorite software repos
 - General completeness
     - https://github.com/adobe-fonts/source-han-sans/
     - https://github.com/googlefonts/noto-fonts
-    - http://fonts.jp/hanazono/
+    - https://github.com/cjkvi/HanaMinAFDKO
 - Dyslexia
   - https://www.dyslexiefont.com/
   - https://opendyslexic.org/
