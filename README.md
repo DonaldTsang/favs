@@ -106,6 +106,7 @@ my favorite software repos
   - https://opendyslexic.org/
   - https://www.k-type.com/fonts/lexie-readable/
   - https://www.sylexiad.com/
+  - http://adysfont.com/
 - Self-censorship http://projectseen.com/
 - Memory http://sansforgetica.rmit/
 - Anti-OCR http://www.imprintlab.com/z-x-x/
