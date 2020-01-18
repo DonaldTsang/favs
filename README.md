@@ -142,6 +142,7 @@ my favorite software repos
 - https://gitlab.com/IvanSanchez/geogrids
 
 ## The best forbidden obfuscation software - GMask
+- C++ https://github.com/kunstmusik/cmask
 - Go https://github.com/fggp/gmask
 - Python https://github.com/GunioRobot/pymask
 - JS https://github.com/julianwachholz/wmask
