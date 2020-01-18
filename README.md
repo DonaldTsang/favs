@@ -2,6 +2,7 @@
 my favorite software repos
 
 ### [Audio Manipulation](audio.md)
+### [Backup and Archival](backup.md)
 ### [Cryptography](crypto.md)
 ### [Data Store](data.md)
 ### [Education](education.md)
@@ -83,12 +84,6 @@ my favorite software repos
 - radical database https://github.com/cjkvi/cjkvi-ids
 - simplified detection https://github.com/tsroten/hanzidentifier
 
-## The best middle finger to YouTube
-- https://github.com/ytdl-org/youtube-dl (Downloader)
-- https://github.com/omarroth/invidious (psuedo-proxy)
-- https://github.com/TeamNewPipe/NewPipe/ (Android)
-- https://github.com/FreeTubeApp/FreeTube (Desktop)
-
 ## The best dice roller - GreenImp's RPG Dice Roller
 - https://github.com/GreenImp/rpg-dice-roller
 
@@ -124,21 +119,8 @@ my favorite software repos
 ## Best Grammar Checker - LanguageTool* (LGPL, freemium)
 https://github.com/languagetool-org/languagetool
 
-## The best anti-censor on the web tool
-- https://github.com/ValdikSS/GoodbyeDPI (Mitigation)
-- https://github.com/citizenlab/test-lists (Testing)
-
-## The best archival tools
-- https://github.com/motherboardgithub/mass_archive (Python)
-- https://github.com/oduwsdl/archivenow (Python)
-- https://github.com/pastpages/archiveis (Python)
-- https://github.com/rahiel/archiveror (JS Exntension)
-
 ## The most beatutiful chaotic system - Tinkerbell
 - https://en.wikipedia.org/wiki/Tinkerbell_map
-
-## The best non-cryptographic hash test
-- https://github.com/Cyan4973/xxHash/issues/257
 
 ## The best file detection system
 - https://github.com/openpreserve/fido/issues/173
@@ -194,9 +176,6 @@ https://github.com/languagetool-org/languagetool
 - https://github.com/AliceCA/Overchan-Android
   - fork https://github.com/overchan-project/Overchan-Android
   - also https://github.com/Eilhart/Overchan-Android
-
-## The one stop solution to archiving the net
-- https://github.com/pirate/ArchiveBox
 
 ## The best Wiki software
 - https://github.com/Requarks/wiki
