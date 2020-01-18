@@ -99,9 +99,7 @@ my favorite software repos
 
 ## The best fonts for certain use cases
 - General completeness
-    - https://github.com/adobe-fonts/source-han-sans/
-    - https://github.com/googlefonts/noto-fonts
-    - https://github.com/cjkvi/HanaMinAFDKO
+    - https://github.com/DrXie/OSFCC for more info
 - Dyslexia
   - https://www.dyslexiefont.com/
   - https://opendyslexic.org/
