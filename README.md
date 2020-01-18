@@ -7,8 +7,10 @@ my favorite software repos
 ### [Data Store](data.md)
 ### [Education](education.md)
 ### [Image Manipulation](image.md)
+### [Mathematics](math.md)
 ### [Privacy Tools](privacy.md)
 ### [Self Care](self-care.md)
+### [Text Manipulation](text.md)
 
 ## The best Static Site Generators
 - Pelican (https://github.com/getpelican/pelican)
@@ -84,17 +86,8 @@ my favorite software repos
 - radical database https://github.com/cjkvi/cjkvi-ids
 - simplified detection https://github.com/tsroten/hanzidentifier
 
-## The best dice roller - GreenImp's RPG Dice Roller
-- https://github.com/GreenImp/rpg-dice-roller
-
 ## The best fun Grids - What3F**ks
 - https://gitlab.com/IvanSanchez/geogrids
-
-## The best forbidden obfuscation software - GMask
-- C++ https://github.com/kunstmusik/cmask
-- Go https://github.com/fggp/gmask
-- Python https://github.com/GunioRobot/pymask
-- JS https://github.com/julianwachholz/wmask
 
 ## The best neural roadmap
 - https://github.com/weslynn/AlphaTree-graphic-deep-neural-network
@@ -104,23 +97,8 @@ my favorite software repos
 - https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r
 - https://github.com/Alheimsins/b5-costa-mccrae-300-ipip-neo-pi-r
 
-## Best text management tools
-- https://github.com/Ousret/charset_normalizer (Character Encoding and language detector)
-- https://github.com/life4/textdistance (text comparison and phonetic encoding)
-- https://github.com/life4/homoglyphs (homoglyph obfuscation cleaning)
-- https://github.com/shivam5992/textstat (readability statistics information)
-- https://github.com/LuminosoInsight/python-ftfy (unicode glitch repairing)
-- https://github.com/RicoViking9000/profanityfilter and https://github.com/aarashy/profanityfilter (Profanity Removal)
-- https://github.com/jpotts18/stylometry or https://github.com/mikekestemont/pystyl (stylometric detections)
-
 ## Best Image Format - JPEG-XL
 - https://github.com/google/brunsli
-
-## Best Grammar Checker - LanguageTool* (LGPL, freemium)
-https://github.com/languagetool-org/languagetool
-
-## The most beatutiful chaotic system - Tinkerbell
-- https://en.wikipedia.org/wiki/Tinkerbell_map
 
 ## The best file detection system
 - https://github.com/openpreserve/fido/issues/173
