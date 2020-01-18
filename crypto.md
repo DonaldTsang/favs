@@ -115,3 +115,6 @@
 ## The best genereal post-quantum cryptography
 - https://github.com/PQClean/PQClean
 - https://github.com/open-quantum-safe/liboqs/
+
+## The best non-cryptographic hash test
+- https://github.com/Cyan4973/xxHash/issues/257
