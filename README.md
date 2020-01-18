@@ -1,11 +1,12 @@
 # favs
 my favorite software repos
 
-### [Audio](audio.md)
+### [Audio Manipulation](audio.md)
 ### [Cryptography](crypto.md)
 ### [Data Store](data.md)
 ### [Education](education.md)
 ### [Image Manipulation](image.md)
+### [Privacy Tools](privacy.md)
 ### [Self Care](self-care.md)
 
 ## The best Static Site Generators
@@ -27,22 +28,8 @@ my favorite software repos
   - https://www.maximumcompression.com/data/summary_mf3.php
   - http://qlic.altervista.org/
 
-## The best number station - PiNumberStation
-- https://github.com/hiryu85/PiNumberStation/tree/feature/icecast-streaming
-
-## The best tracker dot tool - DEDA
-- https://github.com/dfd-tud/deda
-- 2nd place https://github.com/iandennismiller/yellowdot
-
-## The best password strength tester - zxcvbn
-- https://github.com/dropbox/zxcvbn
-
 ## The best psuedo turing tarpits
 -  https://codegolf.stackexchange.com/questions/110648
-
-## The best browser - UnGoogled Chromium
-- https://github.com/Eloston/ungoogled-chromium
-- If you can't handle it https://github.com/gab-ai-inc
 
 ## The best hash visualisation and identicon tools
 - Color strip (SVG) https://github.com/bengl/node-hashcolors
@@ -173,7 +160,6 @@ https://github.com/languagetool-org/languagetool
 - https://github.com/tldr-pages/tldr (Man Pages)
 - https://github.com/koalaman/shellcheck (Shell linting)
 
-
 ## The best Python formatter+linter
 - https://github.com/PyCQA/pylint (lint with formatter plugins)
 - https://github.com/wemake-services/wemake-python-styleguide (lint with formatter plugins)
@@ -211,14 +197,6 @@ https://github.com/languagetool-org/languagetool
 
 ## The one stop solution to archiving the net
 - https://github.com/pirate/ArchiveBox
-
-## The best ad-blocker
-- https://github.com/gorhill/uBlock
-- https://github.com/reek/anti-adblock-killer
-- https://github.com/EFForg/privacybadger (simplified)
-- https://github.com/gorhill/uMatrix (more fine grained)
-- https://github.com/blokadaorg/blokada (android)
-- https://github.com/pi-hole/pi-hole (network-wide)
 
 ## The best Wiki software
 - https://github.com/Requarks/wiki
