@@ -19,3 +19,7 @@
 - https://github.com/gorhill/uMatrix (more fine grained)
 - https://github.com/blokadaorg/blokada (android)
 - https://github.com/pi-hole/pi-hole (network-wide)
+
+## The best anti-censor on the web tool
+- https://github.com/ValdikSS/GoodbyeDPI (Mitigation)
+- https://github.com/citizenlab/test-lists (Testing)
