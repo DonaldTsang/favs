@@ -6,6 +6,7 @@ my favorite software repos
 ### [Cryptography](crypto.md)
 ### [Data Store](data.md)
 ### [Education](education.md)
+### [Hardware](hardware.md)
 ### [Image Manipulation](image.md)
 ### [Mathematics](math.md)
 ### [Privacy Tools](privacy.md)
