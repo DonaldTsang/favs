@@ -33,3 +33,4 @@
 - Training Japanese-English pair for Python Programmers
   - Japanese http://www.cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython2.pdf
   - English http://greenteapress.com/thinkpython2/thinkpython2.pdf
+- Apparently https://github.com/daigakulounge/ochinchingadaiskinandayo
