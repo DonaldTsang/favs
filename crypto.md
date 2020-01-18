@@ -11,7 +11,7 @@
 - (VMPC-MAC which is a hash https://eprint.iacr.org/2004/301.pdf)
 - (VMPC-R is a bit overkill however)
 
-### RC4 candadite collection
+## RC4 candadite collection
 - JS https://github.com/hex7c0/arc4
 - Python https://github.com/averykhoo/plaintext-file-fragmentation
 - Golang https://github.com/andrewarchi/gocipher
