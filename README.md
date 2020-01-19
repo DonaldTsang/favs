@@ -87,6 +87,10 @@ my favorite software repos
 - radical API https://github.com/patarapolw/cjkradlib
 - radical database https://github.com/cjkvi/cjkvi-ids
 - simplified detection https://github.com/tsroten/hanzidentifier
+- Psuedo-characters generation
+  - http://otoro.net/kanji/
+  - http://blog.otoro.net/2015/12/28/recurrent-net-dreams-up-fake-chinese-characters-in-vector-format-with-tensorflow/
+  - http://blog.otoro.net/2016/01/05/random-radicals/
 
 ## The best fun Grids - What3F**ks
 - https://gitlab.com/IvanSanchez/geogrids
