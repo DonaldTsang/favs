@@ -81,8 +81,8 @@ my favorite software repos
   - 140+ fonts https://www.zitijia.com/t/%E5%85%8D%E8%B4%B9%E5%95%86%E7%94%A8
   - http://www.ypppt.com/ziti/ and http://www.sj00.com/fonts/Chinese_fonts/
 - handwriting datasets
-  - http://www.nlpr.ia.ac.cn/databases/handwriting/Home.html
-  - http://etlcdb.db.aist.go.jp/
+  - http://www.nlpr.ia.ac.cn/databases/handwriting/Home.html and https://github.com/lucaskjaero/PyCasia
+  - http://etlcdb.db.aist.go.jp/ and https://github.com/Hoge42/ETL7 and https://github.com/choo/etlcdb-image-extractor
 - Vector database https://github.com/KanjiVG/kanjivg
 - radical API https://github.com/patarapolw/cjkradlib
 - radical database https://github.com/cjkvi/cjkvi-ids
