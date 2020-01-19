@@ -87,7 +87,7 @@ my favorite software repos
   - http://www.iapr-tc11.org/mediawiki/index.php/Harbin_Institute_of_Technology_Opening_Recognition_Corpus_for_Chinese_Characters_(HIT-OR3C)
   - https://sites.google.com/site/hitmwdb/
   - http://etlcdb.db.aist.go.jp/ and https://github.com/Hoge42/ETL7 and https://github.com/choo/etlcdb-image-extractor
-  - More at http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.916.1905&rep=rep1&type=pdf
+  - More at http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.916.1905&rep=rep1&type=pdf and https://osf.io/tepg8/
 - Vector database https://github.com/KanjiVG/kanjivg
 - radical API https://github.com/patarapolw/cjkradlib
 - radical database https://github.com/cjkvi/cjkvi-ids
