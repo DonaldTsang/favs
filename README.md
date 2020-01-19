@@ -83,6 +83,7 @@ my favorite software repos
 - handwriting datasets
   - http://www.nlpr.ia.ac.cn/databases/handwriting/Home.html
   - http://etlcdb.db.aist.go.jp/
+- Vector database https://github.com/KanjiVG/kanjivg
 - radical API https://github.com/patarapolw/cjkradlib
 - radical database https://github.com/cjkvi/cjkvi-ids
 - simplified detection https://github.com/tsroten/hanzidentifier
