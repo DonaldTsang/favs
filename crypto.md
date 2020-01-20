@@ -135,3 +135,14 @@
 ## AACS DVD keys
 TBN
 
+## VIC or straddling checkerboard
+- http://users.telenet.be/d.rijmenants/en/table.htm
+
+## Enigma Machine
+- Java https://github.com/vanitasvitae/EnigmAndroid
+- Python https://github.com/cedricbonhomme/pyEnigma
+- Docs http://www.cryptomuseum.com/crypto/enigma/wiring.htm
+- alternative https://github.com/RealGrep/lorenz-cipher-sim
+- Others
+  - https://en.wikipedia.org/wiki/Template:Cryptography_machines
+  - http://jproc.ca/crypto/
