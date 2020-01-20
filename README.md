@@ -9,6 +9,7 @@ my favorite software repos
 ### [Kanji and Japanee](kanji.md)
 ### [Image Manipulation](image.md)
 ### [Mathematics](math.md)
+### [Neural Network and Machine Learning](neural.md)
 ### [Privacy Tools](privacy.md)
 ### [Self Care](self-care.md)
 ### [Text Manipulation](text.md)
