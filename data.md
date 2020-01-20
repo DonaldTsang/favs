@@ -33,3 +33,6 @@
 - Other https://github.com/penma/dpaper
 - Other https://github.com/colorsafe/colorsafe
 - Other https://github.com/cyphar/paperback
+
+## The best fun Grids - What3Fugs
+- https://gitlab.com/IvanSanchez/geogrids
