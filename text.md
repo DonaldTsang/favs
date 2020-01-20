@@ -22,3 +22,12 @@
 
 ## Best Grammar Checker - LanguageTool* (LGPL, freemium)
 https://github.com/languagetool-org/languagetool
+
+## Longest Novels
+- http://mentalfloss.com/article/18661/quick-10-10-longest-novels-ever
+- http://www.vulture.com/2016/11/long-books-worth-your-time.html
+- https://themillions.com/2007/09/world-longest-novel.html
+- My Top THree
+  - The shitpost novel - The Blah Story by Nigel Tomm (3.3 Mil)
+  - A romance novel - Marienbad My Love by Mark Leach (2.5 Mil)
+  - Pre-scientology - Mission Earth by L. Ron Hubbard (1.2 Mil)
