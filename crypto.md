@@ -116,3 +116,6 @@
 
 ## The best non-cryptographic hash test
 - https://github.com/Cyan4973/xxHash/issues/257
+
+## The most embarassing PGP key leak
+- http://archive.fo/zEneN
