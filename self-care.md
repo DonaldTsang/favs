@@ -36,3 +36,6 @@
 - https://github.com/Alheimsins/b5-50-ipip-neo-pi-r
 - https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r
 - https://github.com/Alheimsins/b5-costa-mccrae-300-ipip-neo-pi-r
+
+## The best self-help library
+- https://inclibuql666c5c4.onion
