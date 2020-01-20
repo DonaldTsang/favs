@@ -6,7 +6,7 @@ my favorite software repos
 ### [Cryptography](crypto.md)
 ### [Data Store](data.md)
 ### [Hardware](hardware.md)
-### [Kanji and Japanee](kanji.md)
+### [Kanji and Japanese](kanji.md)
 ### [Image Manipulation](image.md)
 ### [Mathematics](math.md)
 ### [NN and ML](neural.md)
