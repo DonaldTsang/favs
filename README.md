@@ -139,7 +139,14 @@ my favorite software repos
 ## The best explanation regarding Ensemble methods
 - https://www.kdnuggets.com/2017/11/difference-bagging-boosting.html
 
-### The best Dungeon game
+## The best Dungeon game
 - https://github.com/AIDungeon/AIDungeon
 - wat https://github.com/cloveranon/Clover-Edition
 - WAT https://aidungeonpastes.github.io/AID2-Art/
+
+## The best Collaborative Filtering algorithms
+- Java https://github.com/guoguibing/librec
+- Python https://github.com/benfred/implicit
+- Ruby https://github.com/asmuth/recommendify
+- Golang https://github.com/zhenghaoz/gorse
+- Javascript https://github.com/guymorita/recommendationRaccoon
