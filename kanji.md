@@ -66,6 +66,7 @@
 
 ## The best kanji stroke database
 - Vector database https://github.com/KanjiVG/kanjivg
+- This one has thickness https://github.com/skishore/makemeahanzi
 
 ## The best kanji radical database
 - radical API https://github.com/patarapolw/cjkradlib
@@ -78,7 +79,6 @@
 - http://otoro.net/kanji/
 - http://blog.otoro.net/2015/12/28/recurrent-net-dreams-up-fake-chinese-characters-in-vector-format-with-tensorflow/
 - http://blog.otoro.net/2016/01/05/random-radicals/
-
 
 ## The most complete font database
 - https://github.com/DrXie/OSFCC
