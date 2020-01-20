@@ -27,6 +27,16 @@
 - C https://github.com/skeeto/elsiefour
 - C# https://github.com/MasterChief-John-117/ElsieFour
 - Java https://github.com/ChanceReb/elsie-cipher
+- Pencil cersion
+  - https://crypto.anarres.info/2016/rc4_pencilandpaper
+  - http://mindflare.com/cipher/
+- Variant http://ipv6.snipplr.com/view/66235/improved-arc4-iarc4/
+
+## Other Low Tech ciphers
+- Aguilar Cipher http://www.sniperflashcards.com/cryptography.php
+- Handycipher https://eprint.iacr.org/2014/257.pdf
+- LFG https://en.wikipedia.org/wiki/Lagged_Fibonacci_generator
+- The last thing you need https://github.com/fruiz500 and https://prgomez.com
 
 ## The best card cipher collection
 - https://aarontoponce.org/wiki/crypto/card-ciphers
