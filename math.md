@@ -26,8 +26,13 @@
   - https://bellard.org/pi/pi2700e9/pidigits.html
   - https://arxiv.org/pdf/1612.00489.pdf
   
-## Prime numbers
+## The best Prime number list
 - 32 bit primes http://www.fukudat.com/prime/
+- First 50 million primes https://primes.utm.edu/lists/small/millions/
+- First billion primes https://static.bigprimes.net/archive/one-billion-primes.7z.torrent
+- Primes up to a trillion http://www.primos.mat.br/indexen.html
+
+## The best special primes
 - Mersenne Primes
   - https://www.mersenne.org/primes/
   - https://primes.utm.edu/mersenne/
@@ -37,6 +42,8 @@
   - https://www.rieselprime.de/
   - http://www.mersennewiki.org/index.php/Proth_and_Riesel_prime%2C_smallest 
 - Solinas prime https://eprint.iacr.org/2010/058.pdf
+
+## The best prime sieves and tests
 - The best sieve in code https://github.com/kimwalisch/primesieve
 - Best Prime Test
   - Miller-Rabin
