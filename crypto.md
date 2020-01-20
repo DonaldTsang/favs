@@ -121,5 +121,7 @@
 ## The best non-cryptographic hash test
 - https://github.com/Cyan4973/xxHash/issues/257
 
-## The most embarassing PGP key leak
-- http://archive.fo/zEneN
+## The primes of the world
+- Adobe PGP key leak http://archive.fo/zEneN
+- Texas Instruments https://brandonw.net/calculators/keys/
+- If you want to go extreme https://en.wikipedia.org/wiki/RSA_numbers
