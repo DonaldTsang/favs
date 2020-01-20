@@ -57,8 +57,6 @@ my favorite software repos
 - (Headshot, animal/alien/robot and emoji based are also bad)
 
 ## The best fonts for certain use cases
-- General completeness
-    - https://github.com/DrXie/OSFCC for more info
 - Dyslexia
   - https://www.dyslexiefont.com/
   - https://opendyslexic.org/
