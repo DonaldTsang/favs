@@ -33,9 +33,14 @@
 - Lisp
   - Japanese https://sicp.iijlab.net/fulltext/xcont.html
   - English https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html
+  - Digital copy bases
+    - https://github.com/sarabander/sicp-pdf
+    - https://github.com/sarabander/sicp
+    - https://github.com/IIIIllllIIIIllllIIIIllllIIIIllllIIIIll/isicp
 - Python
   - Japanese http://www.cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython2.pdf
   - English http://greenteapress.com/thinkpython2/thinkpython2.pdf
+  - Digital copy base https://github.com/AllenDowney/ThinkPython2
 
 
 ## The best CJK font generator
