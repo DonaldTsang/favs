@@ -144,9 +144,15 @@ my favorite software repos
 - wat https://github.com/cloveranon/Clover-Edition
 - WAT https://aidungeonpastes.github.io/AID2-Art/
 
-## The best Collaborative Filtering algorithms
+## The best Collaborative Filteringand Recommender algorithms
+- Metalist https://github.com/grahamjenson/list_of_recommender_systems
+- Metalist for papers https://github.com/hongleizhang/RSPapers
+- Python https://github.com/NicolasHug/Surprise
+- Python https://github.com/lyst/lightfm
 - Java https://github.com/guoguibing/librec
 - Python https://github.com/benfred/implicit
 - Ruby https://github.com/asmuth/recommendify
+- Python https://github.com/ocelma/python-recsys
 - Golang https://github.com/zhenghaoz/gorse
-- Javascript https://github.com/guymorita/recommendationRaccoon
+- Javascript https://github.com/guymorita/recommendationRaccoon https://github.com/actionml/universal-recommender 
+https://github.com/jadianes/spark-movie-lens     
