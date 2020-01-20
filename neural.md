@@ -35,7 +35,7 @@
 - C# https://github.com/zenogantner/MyMediaLite
 - Python https://github.com/practical-recommender-systems/moviegeek
 - Python https://github.com/kakao/buffalo (mono?)
-- Pytohn https://github.com/apachecn/RecommenderSystems
+- Python https://github.com/apachecn/RecommenderSystems
 - Java https://github.com/bystc/MovieRecommender (mono?)
 - Java https://github.com/pranab/sifarish
 - Python https://github.com/jadianes/winerama-recommender-tutorial (mono?)
