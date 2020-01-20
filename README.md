@@ -147,9 +147,9 @@ my favorite software repos
 ## The best Collaborative Filteringand Recommender algorithms
 - Metalist 
   - https://github.com/grahamjenson/list_of_recommender_systems
-  https://github.com/hongleizhang/RSPapers
-  https://github.com/daicoolb/RecommenderSystem-Paper
-  https://github.com/chihming/competitive-recsys
+  - https://github.com/hongleizhang/RSPapers
+  - https://github.com/daicoolb/RecommenderSystem-Paper
+  - https://github.com/chihming/competitive-recsys
 - Dataset https://github.com/caserec/Datasets-for-Recommender-Systems   
 - Best practices https://github.com/microsoft/recommenders
 - Python https://github.com/lyst/lightfm
