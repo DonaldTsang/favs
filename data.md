@@ -36,3 +36,24 @@
 
 ## The best fun Grids - What3Fugs
 - https://gitlab.com/IvanSanchez/geogrids
+
+## The best hash visualisation and identicon tools
+- Color strip (SVG) https://github.com/bengl/node-hashcolors
+- Color strip (ANSI) https://github.com/solosodium/colorful-hash
+- Ink Blots https://github.com/stuartpb/hashblot
+- Bubbles https://github.com/dakridge/identicon
+- Circular https://github.com/ea7ababe/identicon 
+- Triangles https://github.com/Mailea/origamicons
+- Semi-good designs:
+    - Polygons https://github.com/yuvadm/polyhash
+    - Ring based https://github.com/Zunawe/identicons
+    - Ring based https://github.com/splitbrain/php-ringicon
+    - Jagged https://github.com/danfinlay/jazzicon
+    - Tornado https://github.com/popodidi/idoticon
+    - hexagon https://github.com/naknomum/hexicon
+    - Tiles https://github.com/danslocombe/tiledenticon
+    - Heart https://github.com/Schlipak/IdentiHeart
+- Sound: https://github.com/jasonbot/identijingle
+- (Most identicons are either GitHub-like or StackOverflow-like)
+- (Too much mirror or rotation symmetry is simply bad)
+- (Headshot, animal/alien/robot and emoji based are also bad)
