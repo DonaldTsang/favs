@@ -68,9 +68,6 @@ my favorite software repos
 - Anti-OCR http://www.imprintlab.com/z-x-x/
 - OCR proofreading https://www.pgdp.net/c/faq/font_sample.php
 
-## The best fun Grids - What3F**ks
-- https://gitlab.com/IvanSanchez/geogrids
-
 ## The best neural roadmap
 - https://github.com/weslynn/AlphaTree-graphic-deep-neural-network
 
