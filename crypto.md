@@ -129,6 +129,9 @@
 - Texas Instruments https://brandonw.net/calculators/keys/
 - If you want to go extreme https://en.wikipedia.org/wiki/RSA_numbers
 
+## The best Latin Squares
+- https://pthree.org/2018/09/20/latin-squares-mathematics-and-cryptography/
+
 ## AACS DVD keys
 TBN
 
