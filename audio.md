@@ -9,11 +9,14 @@
 - Python https://github.com/itspoma/audio-fingerprint-identifying-python
 
 ## The best voice cloning tools
-- Cloning
-  - https://github.com/CorentinJ/Real-Time-Voice-Cloning
-  - https://github.com/andabi/deep-voice-conversion
-  - https://github.com/r9y9/wavenet_vocoder
+- https://github.com/CorentinJ/Real-Time-Voice-Cloning
+- https://github.com/andabi/deep-voice-conversion
+- https://github.com/r9y9/wavenet_vocoder
+
+## The best audio Super Resolution
 - Super Resolution https://github.com/kuleshov/audio-super-res
+
+## The best speech denosing and enhancement library
 - Denoising
   - https://github.com/drethage/speech-denoising-wavenet
   - https://github.com/francoisgermain/SpeechDenoisingWithDeepFeatureLosses
