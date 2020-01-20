@@ -36,27 +36,6 @@ my favorite software repos
 ## The best psuedo turing tarpits
 -  https://codegolf.stackexchange.com/questions/110648
 
-## The best hash visualisation and identicon tools
-- Color strip (SVG) https://github.com/bengl/node-hashcolors
-- Color strip (ANSI) https://github.com/solosodium/colorful-hash
-- Ink Blots https://github.com/stuartpb/hashblot
-- Bubbles https://github.com/dakridge/identicon
-- Circular https://github.com/ea7ababe/identicon 
-- Triangles https://github.com/Mailea/origamicons
-- Semi-good designs:
-    - Polygons https://github.com/yuvadm/polyhash
-    - Ring based https://github.com/Zunawe/identicons
-    - Ring based https://github.com/splitbrain/php-ringicon
-    - Jagged https://github.com/danfinlay/jazzicon
-    - Tornado https://github.com/popodidi/idoticon
-    - hexagon https://github.com/naknomum/hexicon
-    - Tiles https://github.com/danslocombe/tiledenticon
-    - Heart https://github.com/Schlipak/IdentiHeart
-- Sound: https://github.com/jasonbot/identijingle
-- (Most identicons are either GitHub-like or StackOverflow-like)
-- (Too much mirror or rotation symmetry is simply bad)
-- (Headshot, animal/alien/robot and emoji based are also bad)
-
 ## The best fonts for certain use cases
 - Dyslexia
   - https://www.dyslexiefont.com/
@@ -68,9 +47,6 @@ my favorite software repos
 - Memory http://sansforgetica.rmit/
 - Anti-OCR http://www.imprintlab.com/z-x-x/
 - OCR proofreading https://www.pgdp.net/c/faq/font_sample.php
-
-## The best neural roadmap
-- https://github.com/weslynn/AlphaTree-graphic-deep-neural-network
 
 ## The best file detection system
 - https://github.com/openpreserve/fido/issues/173
@@ -130,49 +106,7 @@ my favorite software repos
 ## The best Wiki software
 - https://github.com/Requarks/wiki
 
-## The best GAN collection
-- Actually usable https://github.com/kozistr/Awesome-GANs
-- Longer listing https://github.com/nightrome/really-awesome-gan
-
-## The best explanation regarding Ensemble methods
-- https://www.kdnuggets.com/2017/11/difference-bagging-boosting.html
-
 ## The best Dungeon game
 - https://github.com/AIDungeon/AIDungeon
 - wat https://github.com/cloveranon/Clover-Edition
 - WAT https://aidungeonpastes.github.io/AID2-Art/
-
-## The best Collaborative Filteringand Recommender algorithms
-- Metalist 
-  - https://github.com/grahamjenson/list_of_recommender_systems
-  - https://github.com/hongleizhang/RSPapers
-  - https://github.com/daicoolb/RecommenderSystem-Paper
-  - https://github.com/chihming/competitive-recsys
-- Dataset https://github.com/caserec/Datasets-for-Recommender-Systems   
-- Best practices https://github.com/microsoft/recommenders
-- Python https://github.com/NicolasHug/Surprise
-- Python https://github.com/lyst/lightfm
-- Java https://github.com/guoguibing/librec
-- Python https://github.com/maciejkula/spotlight
-- Python https://github.com/benfred/implicit
-- Ruby https://github.com/asmuth/recommendify (mono?)
-- Python https://github.com/ocelma/python-recsys (mono)
-- Python https://github.com/muricoca/crab
-- Golang https://github.com/zhenghaoz/gorse
-- Java https://github.com/lenskit/lenskit
-- Python https://github.com/jadianes/spark-movie-lens (mono)
-- Javascript https://github.com/guymorita/recommendationRaccoon (mono)
-- Python https://github.com/Coder-Yu/RecQ
-- Python https://github.com/IBM/elasticsearch-spark-recommender (mono?)
-- Scala https://github.com/actionml/universal-recommender (mono?)
-- Python https://github.com/Mendeley/mrec
-- C# https://github.com/zenogantner/MyMediaLite
-- Python https://github.com/practical-recommender-systems/moviegeek
-- Python https://github.com/kakao/buffalo (mono?)
-- Pytohn https://github.com/apachecn/RecommenderSystems
-- Java https://github.com/bystc/MovieRecommender (mono?)
-- Java https://github.com/pranab/sifarish
-- Python https://github.com/jadianes/winerama-recommender-tutorial (mono?)
-- Python https://github.com/google-research/recsim
-- Python https://github.com/dawenl/vae_cf (mono)
-- Java https://github.com/RankSys/RankSys
