@@ -57,3 +57,17 @@
 - (Most identicons are either GitHub-like or StackOverflow-like)
 - (Too much mirror or rotation symmetry is simply bad)
 - (Headshot, animal/alien/robot and emoji based are also bad)
+
+## Converting data into video
+```
+input=$1; output=$2; width=1280; height=720; block=8 # block cannot be smaller than 8
+rate="29.97003" # it can also be "23.976024" or "25" (don't use high speed 48/50/60)
+color="monob" # "monow" for BW, "bgr4_byte", rgb4_byte", "bgr8" or "rgb8" for colors
+truncate -s %$(($width*$height/($block**2)/8)) $1
+ffmpeg -f rawvideo -pix_fmt ${color} -s $(($width/$block))x$(($height/$block)) \
+    -r $rate -i $input -vf "scale=iw*${block}:-1" -sws_flags neighbor \
+    -threads 8 -deadline best -c:v libvpx -b:v 256k $2
+input=$1; output=$2; block=8
+ffmpeg -i $1 -vf "format=pix_fmts=${color},scale=iw/${block}:-1" \
+    -sws_flags area -f rawvideo $2
+```
