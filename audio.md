@@ -15,5 +15,29 @@
   - https://github.com/r9y9/wavenet_vocoder
 - Super Resolution https://github.com/kuleshov/audio-super-res
 - Denoising
-  - https://github.com/francoisgermain/SpeechDenoisingWithDeepFeatureLosses
   - https://github.com/drethage/speech-denoising-wavenet
+  - https://github.com/francoisgermain/SpeechDenoisingWithDeepFeatureLosses
+  - https://github.com/auspicious3000/WaveNet-Enhancement
+  - https://github.com/lucianodato/speech-denoiser
+- "Speech Enhancement"
+  - https://github.com/santi-pdp/segan
+  - https://github.com/yongxuUSTC/sednn
+  - https://github.com/seanwood/gcc-nmf
+  - https://github.com/timsainb/noisereduce
+  - https://github.com/santi-pdp/segan_pytorch
+  - https://github.com/fgnt/nara_wpe
+  - https://github.com/yongxuUSTC/DNN-for-speech-enhancement
+  - https://github.com/anicolson/DeepXi
+  - https://github.com/jtkim-kaist/Speech-enhancement
+  - https://github.com/funcwj/setk
+  - https://github.com/zhr1201/CNN-for-single-channel-speech-enhancement
+  - https://github.com/eesungkim/Speech_Enhancement_DNN_NMF
+  - https://github.com/nii-yamagishilab/self-attention-tacotron
+  - https://github.com/auspicious3000/WaveNet-Enhancement
+  - https://github.com/craigmacartney/Wave-U-Net-For-Speech-Enhancement
+  - https://github.com/speechLabBcCuny/onssen
+  - https://github.com/DistantSpeechRecognition/mcse
+  - https://github.com/leftthomas/SEGAN
+
+## The best lip-syncing tools
+TBD
