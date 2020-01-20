@@ -152,6 +152,7 @@ my favorite software repos
   - https://github.com/chihming/competitive-recsys
 - Dataset https://github.com/caserec/Datasets-for-Recommender-Systems   
 - Best practices https://github.com/microsoft/recommenders
+- Python https://github.com/NicolasHug/Surprise
 - Python https://github.com/lyst/lightfm
 - Java https://github.com/guoguibing/librec
 - Python https://github.com/maciejkula/spotlight
