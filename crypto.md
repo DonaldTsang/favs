@@ -31,6 +31,10 @@
 ## The best card cipher collection
 - https://aarontoponce.org/wiki/crypto/card-ciphers
 - https://github.com/atoponce/cardciphers/issues
+- Bonus: marked decks
+  - Classic pip https://www.youtube.com/watch?v=OsbJQaaGXtc
+  - Modern scratch https://www.youtube.com/watch?v=R9RlUcOsVaI
+  - Advanced https://www.youtube.com/watch?v=YT0lE1uLfuA
 
 ## The best elliptic curve - Ed448
 - C
@@ -105,8 +109,7 @@
   - Go https://github.com/cloudflare/sidh
 - NTRU
   - https://github.com/NTRUOpenSourceProject
-  - C https://github.com/tbuktu/libntru
-  - Go https://github.com/companyzero/sntrup4591761
+- Go https://github.com/companyzero/sntrup4591761
 - New Hope
   - https://github.com/newhopecrypto
   - C https://github.com/vscrypto/ringlwe
