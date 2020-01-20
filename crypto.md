@@ -28,6 +28,10 @@
 - C# https://github.com/MasterChief-John-117/ElsieFour
 - Java https://github.com/ChanceReb/elsie-cipher
 
+## The best card cipher collection
+- https://aarontoponce.org/wiki/crypto/card-ciphers
+- https://github.com/atoponce/cardciphers/issues
+
 ## The best elliptic curve - Ed448
 - C
   - https://github.com/coruus/ed448-goldilocks (RIP coruus)
