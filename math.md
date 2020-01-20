@@ -26,3 +26,20 @@
   - https://bellard.org/pi/pi2700e9/pidigits.html
   - https://arxiv.org/pdf/1612.00489.pdf
   
+## Prime numbers
+- 32 bit primes http://www.fukudat.com/prime/
+- Mersenne Primes
+  - https://www.mersenne.org/primes/
+  - https://primes.utm.edu/mersenne/
+- Hash table names http://www.planetmath.org/goodhashtableprimes
+- Proth-Risel Primes
+  - http://www.prothsearch.com/
+  - https://www.rieselprime.de/
+  - http://www.mersennewiki.org/index.php/Proth_and_Riesel_prime%2C_smallest 
+- Solinas prime https://eprint.iacr.org/2010/058.pdf
+- The best sieve in code https://github.com/kimwalisch/primesieve
+- Best Prime Test
+  - Miller-Rabin
+  - Solovay–Strassen
+  - Quadratic Frobenius
+- Best Sieve - Sieve of Atkin
