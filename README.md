@@ -33,6 +33,13 @@ my favorite software repos
   - https://www.maximumcompression.com/data/summary_mf3.php
   - http://qlic.altervista.org/
 
+## Short String Compression
+- https://github.com/Ed-von-Schleck/shoco
+- https://github.com/antirez/smaz
+- https://github.com/jstepien/skrot
+- https://github.com/cloudflare/bm
+- https://github.com/ayende/Rhea.Compression
+
 ## The best psuedo turing tarpits
 -  https://codegolf.stackexchange.com/questions/110648
 
