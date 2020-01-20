@@ -71,3 +71,14 @@ input=$1; output=$2; block=8
 ffmpeg -i $1 -vf "format=pix_fmts=${color},scale=iw/${block}:-1" \
     -sws_flags area -f rawvideo $2
 ```
+
+## The most cryptic art data
+- https://libraryofbabel.info/ (contains all random text)
+- https://github.com/cakenggt/Library-Of-Pybel
+- https://github.com/aneopsy/LibraryOfBabel
+- https://github.com/zesterer/babble
+- https://github.com/locusf/babel
+- https://github.com/murrayc43/LibraryOfBabel
+- https://github.com/angrykoala/3d-babel
+- https://github.com/mrchucho/babel
+
