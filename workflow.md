@@ -29,4 +29,6 @@
 - https://github.com/frostming/legit
 
 ## The best versioning systems
+- Semantic https://semver.org
+- Calendar https://calver.org
 - https://github.com/dephell/dephell_versioning
