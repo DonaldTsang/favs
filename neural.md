@@ -9,6 +9,7 @@
 - https://www.kdnuggets.com/2017/11/difference-bagging-boosting.html
 
 ## The best activation functions
+- https://github.com/digantamisra98/Mish
 - https://en.wikipedia.org/wiki/Activation_function
 
 ## The best Collaborative Filtering and Recommender algorithms
