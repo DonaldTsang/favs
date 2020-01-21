@@ -8,7 +8,7 @@
 ## The best explanation regarding Ensemble methods
 - https://www.kdnuggets.com/2017/11/difference-bagging-boosting.html
 
-## The best Collaborative Filteringand Recommender algorithms
+## The best Collaborative Filtering and Recommender algorithms
 - Metalist 
   - https://github.com/grahamjenson/list_of_recommender_systems
   - https://github.com/hongleizhang/RSPapers
