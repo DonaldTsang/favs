@@ -156,3 +156,18 @@ TBN
 - Others
   - https://en.wikipedia.org/wiki/Template:Cryptography_machines
   - http://jproc.ca/crypto/
+
+## The best cipher lists
+- http://alexbarter.com/cipher-types/
+- http://www.cryptogram.org/resource-area/cipher-types/
+- http://members.aon.at/cipherclerk/Doc/CipherList.html
+- http://practicalcryptography.com/ciphers/
+- https://kifanga.com/cryptography-ciphers/
+- https://www.braingle.com/brainteasers/codes/index.php
+- http://www.elonka.com/UnsolvedCodes.html
+- http://rumkin.com/tools/cipher/
+- http://ciphermachines.com/types.html
+- http://www.cryptoprograms.com/
+- https://www.thonky.com/kryptos/types-of-ciphers
+- http://alexbarter.com/cipher-types/
+- https://ref.wikibruce.com/
