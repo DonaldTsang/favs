@@ -35,7 +35,34 @@
 - Other https://github.com/cyphar/paperback
 
 ## The best fun Grids - What3Fugs
-- https://gitlab.com/IvanSanchez/geogrids
+- Very smart https://gitlab.com/IvanSanchez/geogrids
+  - Side note: 45 bits for 4.78m accuracy, 47 bits for 2.39m, 49 bits for 1.19m
+- Basic https://en.wikipedia.org/wiki/ISO_6709
+- Recommended https://en.wikipedia.org/wiki/Geohash
+- ALternative https://plus.codes/
+- Others
+  - http://www.makaney.net/mkc_standard.html
+  - https://en.wikipedia.org/wiki/Military_Grid_Reference_System
+  - https://en.wikipedia.org/wiki/Postal_addresses_in_the_Republic_of_Ireland#OpenPostcode
+- Do not use irregular scaling
+  - https://en.wikipedia.org/wiki/Maidenhead_Locator_System
+  - https://en.wikipedia.org/wiki/World_Geographic_Reference_System
+  - https://en.wikipedia.org/wiki/C-squares
+  - https://en.wikipedia.org/wiki/Global_Area_Reference_System
+- Do not use irregular grid shapes
+  - https://en.wikipedia.org/wiki/Universal_Transverse_Mercator_coordinate_system
+  - https://en.wikipedia.org/wiki/Universal_polar_stereographic_coordinate_system
+  - https://en.wikipedia.org/wiki/Quadrilateralized_spherical_cube
+  - http://www.sai.msu.su/~megera/wiki/SphereCube
+  - http://s2geometry.io/
+- Do not use proprietary naming schemes
+  - https://what3words.com/
+  - https://en.wikipedia.org/wiki/Natural_Area_Code
+- Do not use overly large divisions
+  - https://en.wikipedia.org/wiki/Marsden_square
+  - https://en.wikipedia.org/wiki/World_Meteorological_Organization_squares
+- Do not use low entropy formats
+  - https://en.wikipedia.org/wiki/QDGC
 
 ## The best hash visualisation and identicon tools
 - Color strip (SVG) https://github.com/bengl/node-hashcolors
