@@ -8,6 +8,9 @@
 ## The best explanation regarding Ensemble methods
 - https://www.kdnuggets.com/2017/11/difference-bagging-boosting.html
 
+## The best activation functions
+- https://en.wikipedia.org/wiki/Activation_function
+
 ## The best Collaborative Filtering and Recommender algorithms
 - Metalist 
   - https://github.com/grahamjenson/list_of_recommender_systems
