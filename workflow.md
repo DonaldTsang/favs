@@ -28,5 +28,5 @@
 - https://github.com/sdg-mit/gitless
 - https://github.com/frostming/legit
 
-## The best versioning
+## The best versioning systems
 - https://github.com/dephell/dephell_versioning
