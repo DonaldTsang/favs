@@ -16,5 +16,16 @@
   - https://github.com/ah-/anne-key
 - Nothing on SK61 or Feker or iQuinx F60 (expensive)
 
+## The best keyboard layout database
+- https://en.wikipedia.org/wiki/Keyboard_layout  
+- https://deskthority.net/wiki/Alternative_keyboard_layouts  
+- http://xahlee.info/kbd/dvorak_and_all_keyboard_layouts.html  
+- https://colemak.com/Alternative_layouts
+- https://normanlayout.info/compare.html
+- http://www.michaelcapewell.com/projects/keyboard/  
+- http://mkweb.bcgsc.ca/carpalx
+- http://mtgap.bilfo.com/keyboard.html  
+- https://www.keyboard-design.com/index.html
+
 ## The best Laptop
 - Thinkpads
