@@ -79,6 +79,7 @@
 - http://otoro.net/kanji/
 - http://blog.otoro.net/2015/12/28/recurrent-net-dreams-up-fake-chinese-characters-in-vector-format-with-tensorflow/
 - http://blog.otoro.net/2016/01/05/random-radicals/
+- https://github.com/hardmaru/sketch-rnn/
 
 ## The most complete font database
 - https://github.com/DrXie/OSFCC
