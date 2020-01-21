@@ -85,6 +85,9 @@
 - (Too much mirror or rotation symmetry is simply bad)
 - (Headshot, animal/alien/robot and emoji based are also bad)
 
+## Converting data into audio
+- https://github.com/rraval/pied-piper
+
 ## Converting data into video
 ```
 input=$1; output=$2; width=1280; height=720; block=8 # block cannot be smaller than 8
