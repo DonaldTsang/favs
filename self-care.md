@@ -42,3 +42,18 @@
 
 ## The best typing change
 TBD
+
+## The names of god
+- <100
+  - https://en.wikipedia.org/wiki/Keshava_Namas
+  - https://en.wikipedia.org/wiki/Shem_HaMephorash#The_72-fold_name
+  - https://en.wikipedia.org/wiki/Lesser_Key_of_Solomon
+  - https://en.wikipedia.org/wiki/Dictionnaire_Infernal
+- 100+
+  - http://astrology.aryabhatt.com/108_Names_Krishna.asp
+  - https://en.wikipedia.org/wiki/101_Names_of_God
+  - https://en.wikipedia.org/wiki/Names_of_God_in_Islam 
+- 1000
+  - https://en.wikipedia.org/wiki/Vishnu_Sahasranama
+  - https://en.wikipedia.org/wiki/List_of_names_of_Vishnu
+  - https://en.wikipedia.org/wiki/Bhadrakalpika_S%C5%ABtra
