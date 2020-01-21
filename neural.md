@@ -10,7 +10,12 @@
 
 ## The best activation functions
 - https://github.com/digantamisra98/Mish
-- second prize https://github.com/kligvasser/xUnit
+- second prizes
+  - https://github.com/kligvasser/xUnit
+  - https://github.com/hendrycks/GELUs
+  - https://github.com/bigsnarfdude/SELU_Keras_Tutorial
+  - https://github.com/Neoanarika/Searching-for-activation-functions
+  - https://github.com/ml-research/pau
 - https://en.wikipedia.org/wiki/Activation_function
 
 ## The best Collaborative Filtering and Recommender algorithms
