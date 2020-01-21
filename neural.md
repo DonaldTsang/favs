@@ -10,6 +10,7 @@
 
 ## The best activation functions
 - https://github.com/digantamisra98/Mish
+- second prize https://github.com/kligvasser/xUnit
 - https://en.wikipedia.org/wiki/Activation_function
 
 ## The best Collaborative Filtering and Recommender algorithms
