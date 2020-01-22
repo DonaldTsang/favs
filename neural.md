@@ -52,3 +52,14 @@
 - Python https://github.com/google-research/recsim
 - Python https://github.com/dawenl/vae_cf (mono)
 - Java https://github.com/RankSys/RankSys
+
+## The best Game AI
+- https://github.com/werner-duvaud/muzero-general
+- https://github.com/johan-gras/MuZero
+- https://github.com/koulanurag/muzero-pytorch
+- https://github.com/YuriCat/MuZeroJupyterExample
+- https://github.com/Zeta36/muzero
+- https://towardsdatascience.com/the-evolution-of-alphago-to-muzero-c2c37306bf9
+- https://medium.com/applied-data-science/how-to-build-your-own-muzero-in-python-f77d5718061a
+- https://medium.com/applied-data-science/how-to-build-your-own-deepmind-muzero-in-python-part-2-3-f99dad7a7ad
+- https://medium.com/applied-data-science/how-to-build-your-own-deepmind-muzero-in-python-part-3-3-ccea6b03538b
