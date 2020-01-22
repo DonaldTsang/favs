@@ -42,5 +42,10 @@
   - https://github.com/DistantSpeechRecognition/mcse
   - https://github.com/leftthomas/SEGAN
 
+## The best Forced Alignment tool
+- https://github.com/readbeyond/aeneas
+- https://github.com/pettarin/forced-alignment-tools
+- (these two are aging like hell)
+
 ## The best lip-syncing tools
 TBD
