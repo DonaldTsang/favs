@@ -47,5 +47,8 @@
 - https://github.com/pettarin/forced-alignment-tools
 - (these two are aging like hell)
 
+## The best "basic" Speech Synth
+- https://github.com/espeak-ng/espeak-ng
+
 ## The best lip-syncing tools
 TBD
