@@ -32,3 +32,14 @@
 - Semantic https://semver.org
 - Calendar https://calver.org
 - https://github.com/dephell/dephell_versioning
+
+## Best Regex Alternative - Verbal Expressions
+- https://github.com/VerbalExpressions
+- https://verbalexpressions.github.io/JSVerbalExpressions/
+- something it should be attached with
+  - https://github.com/google/re2
+  - https://github.com/intel/hyperscan
+  - https://github.com/microsoft/BlingFire
+- Helper guide https://regexr.com
+- Visualizer https://github.com/CJex/regulex
+- Common usage https://github.com/madisonmay/CommonRegex
