@@ -52,6 +52,7 @@
   - https://github.com/kkos/oniguruma
   - https://github.com/hanickadot/compile-time-regular-expressions
   - https://github.com/kokke/tiny-regex-c
+  - https://github.com/yandex/pire
 - Helper guide for JS and Perl https://regexr.com
   - For Python https://github.com/rscarvalho/pyregex
 - Tutorial
