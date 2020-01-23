@@ -36,10 +36,29 @@
 ## Best Regex Alternative - Verbal Expressions
 - https://github.com/VerbalExpressions
 - https://verbalexpressions.github.io/JSVerbalExpressions/
+- The "alternative"
+  - https://github.com/MaxArt2501/re-build
+  - https://github.com/andrewberls/regularity
+  - https://github.com/Bogdanp/cursive_re
+  - https://github.com/mathiasbynens/regenerate
+  - https://github.com/cypreess/python-rex
+  - https://github.com/DmitrySoshnikov/regexp-tree
+  - https://github.com/slevithan/xregexp
 - something it should be attached with
   - https://github.com/google/re2
   - https://github.com/intel/hyperscan
   - https://github.com/microsoft/BlingFire
-- Helper guide https://regexr.com
+  - https://github.com/kkos/oniguruma
+  - https://github.com/hanickadot/compile-time-regular-expressions
+- Helper guide for JS and Perl https://regexr.com
+  - For Python https://github.com/rscarvalho/pyregex
+- Tutorial
+  - https://github.com/learnbyexample/py_regular_expressions
+  - https://github.com/StefanSchroeder/Golang-Regex-Tutorial
 - Visualizer https://github.com/CJex/regulex
-- Common usage https://github.com/madisonmay/CommonRegex
+- Common usage 
+  - https://github.com/madisonmay/CommonRegex
+  - https://github.com/mingrammer/commonregex
+  - https://github.com/lk-geimfari/expynent
+  - https://github.com/rthor/isjs
+- Regex safety https://github.com/substack/safe-regex
