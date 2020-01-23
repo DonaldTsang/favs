@@ -64,3 +64,5 @@
 - base 10000
   - https://en.wikipedia.org/wiki/Armenian_numerals
   - https://en.wikipedia.org/wiki/Georgian_numerals
+- heavily extendible
+  - https://en.wikipedia.org/wiki/%C4%80ryabha%E1%B9%ADa_numeration
