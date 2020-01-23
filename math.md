@@ -56,6 +56,9 @@
   - https://en.wikipedia.org/wiki/Katapayadi_system
   - https://en.wikipedia.org/wiki/Mnemonic_major_system
   - https://en.wikipedia.org/wiki/Japanese_wordplay
+- base 100
+  - https://en.wikipedia.org/wiki/Brahmi_numerals
+  - https://en.wikipedia.org/wiki/Ge%CA%BDez_script#Numerals
 - base 1000
   - https://en.wikipedia.org/wiki/Cyrillic_numerals
   - https://en.wikipedia.org/wiki/Greek_numerals
