@@ -50,3 +50,17 @@
   - Solovay–Strassen
   - Quadratic Frobenius
 - Best Sieve - Sieve of Atkin
+
+## The best numerals
+- decimal
+  - https://en.wikipedia.org/wiki/Katapayadi_system
+  - https://en.wikipedia.org/wiki/Mnemonic_major_system
+  - https://en.wikipedia.org/wiki/Japanese_wordplay
+- base 1000
+  - https://en.wikipedia.org/wiki/Cyrillic_numerals
+  - https://en.wikipedia.org/wiki/Greek_numerals
+  - https://en.wikipedia.org/wiki/Gematria
+  - https://en.wikipedia.org/wiki/Abjad_numerals
+- base 10000
+  - https://en.wikipedia.org/wiki/Armenian_numerals
+  - https://en.wikipedia.org/wiki/Georgian_numerals
