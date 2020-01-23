@@ -31,3 +31,4 @@ https://github.com/languagetool-org/languagetool
   - The shitpost novel - The Blah Story by Nigel Tomm (3.3 Mil)
   - A romance novel - Marienbad My Love by Mark Leach (2.5 Mil)
   - Pre-scientology - Mission Earth by L. Ron Hubbard (1.2 Mil)
+- WHO AUTOMATED THIS? https://github.com/johnafish/duree
