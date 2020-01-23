@@ -60,8 +60,7 @@
   - https://github.com/StefanSchroeder/Golang-Regex-Tutorial
 - Visualizer https://github.com/CJex/regulex
 - Common usage 
-  - https://github.com/madisonmay/CommonRegex
-  - https://github.com/mingrammer/commonregex
+  - https://github.com/madisonmay/CommonRegex and ports
   - https://github.com/lk-geimfari/expynent
   - https://github.com/rthor/isjs
 - Regex safety https://github.com/substack/safe-regex
