@@ -44,15 +44,18 @@
   - https://github.com/cypreess/python-rex
   - https://github.com/DmitrySoshnikov/regexp-tree
   - https://github.com/slevithan/xregexp
+  - https://github.com/iogf/crocs
 - something it should be attached with
   - https://github.com/google/re2
   - https://github.com/intel/hyperscan
   - https://github.com/microsoft/BlingFire
   - https://github.com/kkos/oniguruma
   - https://github.com/hanickadot/compile-time-regular-expressions
+  - https://github.com/kokke/tiny-regex-c
 - Helper guide for JS and Perl https://regexr.com
   - For Python https://github.com/rscarvalho/pyregex
 - Tutorial
+  - https://github.com/ziishaned/learn-regex
   - https://github.com/learnbyexample/py_regular_expressions
   - https://github.com/StefanSchroeder/Golang-Regex-Tutorial
 - Visualizer https://github.com/CJex/regulex
