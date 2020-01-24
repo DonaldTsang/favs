@@ -24,6 +24,19 @@
 - https://github.com/cszn/FFDNet
 - https://github.com/google/burst-denoising
 - https://github.com/manumathewthomas/ImageDenoisingGAN
+- https://github.com/rajarsheem/libsdae-autoencoder-tensorflow
+- https://github.com/hwalsuklee/tensorflow-mnist-CVAE
+- https://github.com/czbiohub/noise2self
+- https://github.com/SaoYan/DnCNN-PyTorch
+- https://github.com/cszn/KAIR
+- https://github.com/NVlabs/selfsupervised-denoising
+- https://github.com/hejingwenhejingwen/AdaFM
+- https://github.com/wblgers/tensorflow_stacked_denoising_autoencoder
+- https://github.com/joeylitalien/noise2noise-pytorch
+- https://github.com/Oracen/MIDAS
+- https://github.com/guochengqian/TENet
+- https://github.com/gidariss/wDAE_GNN_FewShot
+- https://github.com/mgharbi/demosaicnet_caffe
 
 ## The best Neural Image Restoration
 - TBD
