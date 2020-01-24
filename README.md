@@ -96,4 +96,15 @@ my favorite software repos
   - https://github.com/ScriptSmith/reaper
   - https://github.com/elvisyjlin/media-scraper
 - Reddit API wrapper https://github.com/praw-dev/praw
-- 
+- Media Downloader
+  - https://github.com/aliparlakci/bulk-downloader-for-reddit
+  - https://github.com/HoverHell/RedditImageGrab (needs an update)
+  - https://github.com/shadowmoose/RedditDownloader
+  - https://github.com/2hands10fingers/Reddit-Image-Scraper-1.0 (needs an update)
+- Generalized downloader
+  - https://github.com/NSchrading/redditDataExtractor
+  - https://github.com/MalloyDelacroix/DownloaderForReddit
+  - https://github.com/freeezer98/export-archive-reddit-saved
+  - https://github.com/libertysoft3/reddit-html-archiver
+  - https://github.com/eloyz/reddit (needs an update)
+  - https://github.com/JosephLai241/Universal-Reddit-Scraper
