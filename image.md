@@ -19,6 +19,25 @@
   - https://github.com/flyywh/Image-Denoising-State-of-the-art
   - https://github.com/cszn/KAIR
 - Super fast by intel https://github.com/OpenImageDenoise/oidn
+- https://github.com/yu4u/noise2noise and https://arxiv.org/pdf/1803.04189.pdf
+- https://github.com/GuoShi28/CBDNet and https://arxiv.org/pdf/1807.04686
+- https://github.com/wbhu/DnCNN-tensorflow and https://arxiv.org/pdf/1608.03981
+- https://github.com/cszn/FFDNet and https://arxiv.org/pdf/1710.04026.pdf
+- https://github.com/google/burst-denoising
+- https://github.com/manumathewthomas/ImageDenoisingGAN
+- https://github.com/rajarsheem/libsdae-autoencoder-tensorflow
+- https://github.com/hwalsuklee/tensorflow-mnist-CVAE and https://arxiv.org/pdf/1406.5298.pdf
+- https://github.com/czbiohub/noise2self and https://arxiv.org/pdf/1901.11365.pdf
+- https://github.com/NVlabs/selfsupervised-denoising and https://arxiv.org/pdf/1901.10277.pdf
+- https://github.com/hejingwenhejingwen/AdaFM
+- https://github.com/wblgers/tensorflow_stacked_denoising_autoencoder
+- https://github.com/Oracen/MIDAS
+- https://github.com/guochengqian/TENet and https://arxiv.org/pdf/1905.02538.pdf
+- https://github.com/gidariss/wDAE_GNN_FewShot and https://arxiv.org/pdf/1905.01102.pdf
+- https://github.com/mgharbi/demosaicnet_caffe
+- https://github.com/saeed-anwar/RIDNet and https://arxiv.org/pdf/1904.07396.pdf
+- https://github.com/hellloxiaotian/BRDNet
+- https://github.com/yzhouas/PD-Denoising-pytorch
 
 ## The best Neural Image Restoration
 - TBD
