@@ -13,10 +13,17 @@
 - https://github.com/DominicBreuker/stego-toolkit
 
 ## The best Neural Denoising Tools
-- some info https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art/
+- some info
+  - https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art/
+  - https://github.com/z-bingo/awesome-image-denoising-state-of-the-art
+  - https://github.com/flyywh/Image-Denoising-State-of-the-art
+- Super fast by intel https://github.com/OpenImageDenoise/oidn
 - https://github.com/yu4u/noise2noise
 - https://github.com/GuoShi28/CBDNet
 - https://github.com/wbhu/DnCNN-tensorflow
+- https://github.com/cszn/FFDNet
+- https://github.com/google/burst-denoising
+- https://github.com/manumathewthomas/ImageDenoisingGAN
 
 ## The best Neural Image Restoration
 - TBD
@@ -25,6 +32,7 @@
 - https://github.com/BertMoons/Comparing-CNN-Architectures
 - https://github.com/CeLuigi/models-comparison.pytorch
 - https://github.com/yeephycho/nasnet-tensorflow
+- (Did not browse through GitHub for this... papers instead)
 
 ## The best Semantic Segmentation
   - https://github.com/mrgloom/awesome-semantic-segmentation
