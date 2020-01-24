@@ -13,6 +13,7 @@ my favorite software repos
 ### [Privacy Tools](privacy.md)
 ### [Self Improvement](self-care.md)
 ### [Text Manipulation](text.md)
+### [Video Manipulation](video.md)
 ### [Workflow for Python/JS](workflow.md)
 
 ## The best Static Site Generators
