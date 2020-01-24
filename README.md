@@ -101,6 +101,7 @@ my favorite software repos
   - https://github.com/HoverHell/RedditImageGrab (needs an update)
   - https://github.com/shadowmoose/RedditDownloader
   - https://github.com/2hands10fingers/Reddit-Image-Scraper-1.0 (needs an update)
+  - https://github.com/NotYourGuy/scraperr
 - Generalized downloader
   - https://github.com/NSchrading/redditDataExtractor
   - https://github.com/MalloyDelacroix/DownloaderForReddit
