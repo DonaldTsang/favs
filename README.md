@@ -89,3 +89,11 @@ my favorite software repos
 - https://github.com/AIDungeon/AIDungeon
 - wat https://github.com/cloveranon/Clover-Edition
 - WAT https://aidungeonpastes.github.io/AID2-Art/
+
+## The most Reddit reddit tools
+- Multitools
+  - https://github.com/ScriptSmith/socialreaper
+  - https://github.com/ScriptSmith/reaper
+  - https://github.com/elvisyjlin/media-scraper
+- Reddit API wrapper https://github.com/praw-dev/praw
+- 
