@@ -102,6 +102,8 @@ my favorite software repos
   - https://github.com/shadowmoose/RedditDownloader
   - https://github.com/2hands10fingers/Reddit-Image-Scraper-1.0 (needs an update)
   - https://github.com/NotYourGuy/scraperr
+  - https://github.com/Rapptz/Reddit-Imgur-Scraper
+  - https://github.com/NullSense/WallDit-QT
 - Generalized downloader
   - https://github.com/NSchrading/redditDataExtractor
   - https://github.com/MalloyDelacroix/DownloaderForReddit
@@ -109,3 +111,7 @@ my favorite software repos
   - https://github.com/libertysoft3/reddit-html-archiver
   - https://github.com/eloyz/reddit (needs an update)
   - https://github.com/JosephLai241/Universal-Reddit-Scraper
+  - https://github.com/DrPugsley/Reddit-Archive-Host (needs an update)
+  - https://github.com/Data4Democracy/media-crawler
+  - https://github.com/nobodyme/reddit-fetch
+  - https://github.com/mcandocia/TreeGrabForReddit
