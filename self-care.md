@@ -33,6 +33,8 @@
   - https://www.personalhackathon.com
 
 ## The best Big Five Questionerre
+- Javascript https://github.com/zrrrzzt/b5-web
+- Android https://github.com/adriantache/Big-Five-Personality-Test
 - https://github.com/Alheimsins/b5-50-ipip-neo-pi-r
 - https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r
 - https://github.com/Alheimsins/b5-costa-mccrae-300-ipip-neo-pi-r
