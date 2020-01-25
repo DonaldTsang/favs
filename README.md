@@ -90,7 +90,7 @@ my favorite software repos
 - wat https://github.com/cloveranon/Clover-Edition
 - WAT https://aidungeonpastes.github.io/AID2-Art/
 
-## The most Reddit reddit tools
+## The most Reddit Python reddit tools
 - Multitools
   - https://github.com/ScriptSmith/socialreaper
   - https://github.com/ScriptSmith/reaper
