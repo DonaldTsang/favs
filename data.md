@@ -112,3 +112,6 @@ ffmpeg -i $1 -vf "format=pix_fmts=${color},scale=iw/${block}:-1" \
 - https://github.com/angrykoala/3d-babel
 - https://github.com/mrchucho/babel
 
+## The best ranking system
+- https://github.com/sublee/trueskill
+- Alternatives https://github.com/McLeopold/PythonSkills
