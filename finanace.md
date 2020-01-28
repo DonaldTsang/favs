@@ -14,3 +14,5 @@
 - https://monevator.com/9-lazy-portfolios-for-uk-passive-investors-2010
 - https://finpage.blog/2019/01/14/lazy-portfolios-in-2018
 - https://obliviousinvestor.com/8-lazy-etf-portfolios
+- https://thepoorswiss.com/investing-more-lazy-portfolios
+- http://www.myplaniq.com/LTISystem/f401k__lazy_portfolios.action
