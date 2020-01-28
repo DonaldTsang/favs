@@ -41,4 +41,4 @@
 - https://github.com/nameless-Chatoyant/SPMC_VideoSR-pytorch
 - https://github.com/rampage644/super-resolution
 - https://github.com/summit1993/I-am-Super
-- https://github.com/kwsou/video2x 21
+- https://github.com/kwsou/video2x
