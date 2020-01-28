@@ -8,13 +8,13 @@
 ## The best explanation regarding Ensemble methods
 - https://www.kdnuggets.com/2017/11/difference-bagging-boosting.html
 
-## The best activation functions
+## The best activation function - Mish
 - https://github.com/digantamisra98/Mish
 - second prizes
   - https://github.com/kligvasser/xUnit
-  - https://github.com/hendrycks/GELUs
-  - https://github.com/bigsnarfdude/SELU_Keras_Tutorial
-  - https://github.com/Neoanarika/Searching-for-activation-functions
+  - GELU https://github.com/hendrycks/GELUs
+  - SELU https://github.com/bigsnarfdude/SELU_Keras_Tutorial
+  - Swish https://github.com/Neoanarika/Searching-for-activation-functions
   - https://github.com/ml-research/pau
 - https://en.wikipedia.org/wiki/Activation_function
 
