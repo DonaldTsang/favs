@@ -8,7 +8,7 @@
 
 ### The best lazy portfolio list
 - https://www.bogleheads.org/wiki/Lazy_portfolios
-- http://www.lazyportfolioetf.com/
+- http://www.lazyportfolioetf.com
 - https://www.marketwatch.com/lazyportfolio
 - https://assetbuilder.com/lazy-portfolios
 - https://monevator.com/9-lazy-portfolios-for-uk-passive-investors-2010
