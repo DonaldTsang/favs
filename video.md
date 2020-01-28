@@ -21,5 +21,24 @@
   - https://github.com/tehret/blind-denoising
 
 ## The best video upscaling tool
+- collections 
+  - https://github.com/open-mmlab/mmsr
+  - https://github.com/LoSealL/VideoSuperResolution
+  - https://github.com/flyywh/Video-Super-Resolution
+  - https://github.com/jlygit/AI-video-enhance
+- https://github.com/alterzero/RBPN-PyTorch
+- https://github.com/leftthomas/ESPCN
+- https://github.com/jiangsutx/SPMC_VideoSR
 - https://github.com/aka-katto/dandere2x
-- https://github.com/kwsou/video2x
+- https://github.com/msmsajjadi/FRVSR
+- https://github.com/thangvubk/video-super-resolution
+- https://github.com/IncyLiu/video-super-resolution
+- https://github.com/HymEric/VSR-DUF-Reimplement
+- https://github.com/ravisvi/super-resolution-videos
+- https://github.com/HighVoltageRocknRoll/sr
+- https://github.com/psychopa4/PFNL
+- https://github.com/lizhuangzi/RISTN
+- https://github.com/nameless-Chatoyant/SPMC_VideoSR-pytorch
+- https://github.com/rampage644/super-resolution
+- https://github.com/summit1993/I-am-Super
+- https://github.com/kwsou/video2x 21
