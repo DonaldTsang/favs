@@ -53,6 +53,14 @@
 - Python https://github.com/dawenl/vae_cf (mono)
 - Java https://github.com/RankSys/RankSys
 
+## The best Adversarial Reporgramming
+- https://github.com/Prinsphield/Adversarial_Reprogramming
+- https://github.com/kcelia/adversarial_reprogramming_of_neural_network
+- https://github.com/lizhuorong/Adversarial-Reprogramming-tensorflow
+- https://github.com/rajatvd/AdversarialReprogramming
+- https://github.com/savan77/Adversarial-Reprogramming
+- https://github.com/mishig25/adversarial-reprogramming-keras
+
 ## The best Game AI
 - https://github.com/werner-duvaud/muzero-general
 - https://github.com/johan-gras/MuZero
