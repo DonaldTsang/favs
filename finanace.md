@@ -7,12 +7,18 @@
 - https://www.reddit.com/r/wallstreetbets/comments/b78rg2/weekly_tendies_thread_march_30_2019/
 
 ### The best lazy portfolio list
-- https://www.bogleheads.org/wiki/Lazy_portfolios
-- http://www.lazyportfolioetf.com
-- https://www.marketwatch.com/lazyportfolio
-- https://assetbuilder.com/lazy-portfolios
-- https://monevator.com/9-lazy-portfolios-for-uk-passive-investors-2010
-- https://finpage.blog/2019/01/14/lazy-portfolios-in-2018
-- https://obliviousinvestor.com/8-lazy-etf-portfolios
-- https://thepoorswiss.com/investing-more-lazy-portfolios
-- http://www.myplaniq.com/LTISystem/f401k__lazy_portfolios.action
+- wiki https://www.bogleheads.org/wiki/Lazy_portfolios
+- megalist http://www.lazyportfolioetf.com
+- secondary megalist https://portfolioslab.com/
+- Paul B. Farrell https://www.marketwatch.com/lazyportfolio
+- List of 10 https://www.thedividendguyblog.com/at-least-25-lazy-portfolios-you-can-use/
+- List of 9 https://assetbuilder.com/lazy-portfolios
+- List of 9 https://monevator.com/9-lazy-portfolios-for-uk-passive-investors-2010
+- List of 8 https://finpage.blog/2019/01/14/lazy-portfolios-in-2018
+- List of 8 https://obliviousinvestor.com/8-lazy-etf-portfolios
+- List of 8 https://stockcharts.com/articles/muscular-investing/2019/06/lazy-portfolio-more-muscular.html
+- List of 6 https://www.portfolioeinstein.com/5-reasons-why-a-lazy-portfolio-is-right-for-you/
+- List of 5 https://thepoorswiss.com/investing-more-lazy-portfolios
+- List of 5 http://www.myplaniq.com/LTISystem/f401k__lazy_portfolios.action
+- List of 5 https://www.getrichslowly.org/the-lazy-way-to-investment-success/
+- List of 5 https://www.foxnews.com/story/lazy-boring-portfolio-winners
