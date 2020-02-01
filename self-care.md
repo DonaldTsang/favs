@@ -59,3 +59,6 @@ TBD
   - https://en.wikipedia.org/wiki/Vishnu_Sahasranama
   - https://en.wikipedia.org/wiki/List_of_names_of_Vishnu
   - https://en.wikipedia.org/wiki/Bhadrakalpika_S%C5%ABtra
+
+## The \[Redacted\] thing you can read
+- https://github.com/Sefaria/Sefaria-Export
