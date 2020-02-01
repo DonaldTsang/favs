@@ -41,6 +41,9 @@
   - https://github.com/speechLabBcCuny/onssen
   - https://github.com/DistantSpeechRecognition/mcse
   - https://github.com/leftthomas/SEGAN
+- Speech Metrics
+ - https://github.com/aliutkus/speechmetrics
+ - others that are less important
 
 ## The best Forced Alignment tool
 - https://github.com/readbeyond/aeneas
