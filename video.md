@@ -6,6 +6,9 @@
 - https://github.com/CalvinRossSmith/Youddit-Public
 - https://github.com/Johk3/Passive_RY
 
+## The best video player - MPV
+- https://github.com/mpv-player/mpv
+
 ## The best video summarization system
 - Remember, text summmarization is different from video summarization
 - Some info https://github.com/robi56/video-summarization-resources
