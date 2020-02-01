@@ -22,9 +22,6 @@ my favorite software repos
 - MKDocs (https://github.com/mkdocs/mkdocs)
   - Themes (https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
 
-## The best video player - MPV
-- https://github.com/mpv-player/mpv
-
 ## The best compression benchmark
 - https://github.com/powturbo/TurboBench
 - 2nd place http://pages.di.unipi.it/farruggia/dcb/
@@ -84,15 +81,6 @@ my favorite software repos
 
 ## The best Wiki software
 - https://github.com/Requarks/wiki
-
-## The best Dungeon game
-- the original https://github.com/AIDungeon/AIDungeon
-- wat https://github.com/cloveranon/Clover-Edition
-  - also https://github.com/thadunge2/AIDungeon
-  - online version https://colab.research.google.com/github/VBPXKSMI/Open-CYOAI-Project/blob/master/Open_CYOAI.ipynb
-  - full auto https://github.com/nickwalton/AI-DungeonMaster
-  - modded https://github.com/storybro/storybro
-- WAT https://aidungeonpastes.github.io/AID2-Art/
 
 ## The most Reddit Python reddit tools
 - Multitools
