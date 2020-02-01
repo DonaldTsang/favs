@@ -7,6 +7,7 @@
 - https://github.com/Johk3/Passive_RY
 
 ## The best video summarization system
+- Remember, text summmarization is different from video summarization
 - Some info https://github.com/robi56/video-summarization-resources
 - https://github.com/mbadry1/CS231n-2017-Summary
 - https://github.com/agermanidis/videodigest
@@ -21,6 +22,17 @@
 - https://github.com/weirme/Video_Summary_using_FCSN
 - https://github.com/shruti-jadon/Video-Summarization-using-Keyframe-Extraction-and-Video-Skimming
 - https://github.com/arunbalajeev/query-video-summary
+- https://github.com/AkshatSh/VideoSearchEngine
+- https://github.com/chengyangfu/Pytorch-Twitch-LOL
+- https://github.com/mayu-ot/rethinking-evs
+- https://github.com/gbudiman/effigy
+- https://github.com/architsharma97/VideoSummarization
+- https://github.com/l2ior/cosum
+- https://github.com/huanghao-code/VideoSM
+- https://github.com/MagedMilad/Video-Summarization-with-Long-Short-term-Memory
+- https://github.com/tanveer-hussain/Video-Summarization
+- https://github.com/moabitcoin/Adversarial-video-summarization-pytorch
+- https://github.com/mayu-ot/vsum_dsf
 
 ## The best video denoising tool
 - The best information
