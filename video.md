@@ -6,6 +6,22 @@
 - https://github.com/CalvinRossSmith/Youddit-Public
 - https://github.com/Johk3/Passive_RY
 
+## The best video summarization system
+- Some info https://github.com/robi56/video-summarization-resources
+- https://github.com/mbadry1/CS231n-2017-Summary 1k
+- https://github.com/agermanidis/videodigest 243
+- https://github.com/yahoo/hecate 241
+- https://github.com/KaiyangZhou/pytorch-vsumm-reinforce 195
+- https://github.com/j-min/Adversarial_Video_Summary 158
+- https://github.com/OpenGenus/vidsum 143
+- https://github.com/KaiyangZhou/vsumm-reinforce 86
+- https://github.com/nyavramov/WEBMARIZER 85
+- https://github.com/codelucas/shorten.tv 68
+- https://github.com/ok1zjf/VASNet 45
+- https://github.com/weirme/Video_Summary_using_FCSN 40
+- https://github.com/shruti-jadon/Video-Summarization-using-Keyframe-Extraction-and-Video-Skimming 39
+- https://github.com/arunbalajeev/query-video-summary 37
+
 ## The best video denoising tool
 - The best information
   - https://github.com/yulunzhang/video-enhancement
