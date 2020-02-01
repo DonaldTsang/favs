@@ -71,3 +71,9 @@
 - https://medium.com/applied-data-science/how-to-build-your-own-muzero-in-python-f77d5718061a
 - https://medium.com/applied-data-science/how-to-build-your-own-deepmind-muzero-in-python-part-2-3-f99dad7a7ad
 - https://medium.com/applied-data-science/how-to-build-your-own-deepmind-muzero-in-python-part-3-3-ccea6b03538b
+
+## The best Neural Architecture Search
+- orang https://github.com/microsoft/nni
+- Keras https://github.com/keras-team/autokeras
+- Tensorflow https://github.com/tensorflow/adanet
+- PyTorch https://github.com/quark0/darts
