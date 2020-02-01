@@ -9,6 +9,9 @@
 ## The best video player - MPV
 - https://github.com/mpv-player/mpv
 
+## The best video deduplication
+- https://github.com/0x90d/videoduplicatefinder
+
 ## The best video summarization system
 - Remember, text summmarization is different from video summarization
 - Some info https://github.com/robi56/video-summarization-resources
