@@ -32,9 +32,10 @@
 - Personal Hackathon
   - https://www.personalhackathon.com
 
-## The best soy-free soylent
+## The best soy-free low-carb "soylent"
 - https://www.blendrunner.com/table?sort-by=lowest-price&carbs-to=100&allergens%5B%5D=6
 - https://www.blendrunner.com/table?sort-by=lowest-price&tags%5B%5D=8&allergens%5B%5D=6
+- https://eatcomplete.co/compare-nutritionally-complete-costs/?review-tag=ketogenic
 
 ## The best Big Five Questionerre
 - Javascript https://github.com/zrrrzzt/b5-web
