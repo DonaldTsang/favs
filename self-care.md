@@ -34,6 +34,7 @@
 
 ## The best soy-free soylent
 - https://www.blendrunner.com/table?sort-by=lowest-price&carbs-to=100&allergens%5B%5D=6
+- https://www.blendrunner.com/table?sort-by=lowest-price&tags%5B%5D=8&allergens%5B%5D=6
 
 ## The best Big Five Questionerre
 - Javascript https://github.com/zrrrzzt/b5-web
