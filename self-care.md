@@ -32,6 +32,9 @@
 - Personal Hackathon
   - https://www.personalhackathon.com
 
+## The best soy-free soylent
+- https://www.blendrunner.com/table?sort-by=lowest-price&carbs-to=100&allergens%5B%5D=6
+
 ## The best Big Five Questionerre
 - Javascript https://github.com/zrrrzzt/b5-web
 - Android https://github.com/adriantache/Big-Five-Personality-Test
