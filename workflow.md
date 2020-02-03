@@ -35,6 +35,7 @@
 
 ## The best programming fonts
 - https://github.com/ProgrammingFonts/ProgrammingFonts
+- https://github.com/ryanoasis/nerd-fonts
 
 ## Best Regex Alternative - Verbal Expressions
 - https://github.com/VerbalExpressions
