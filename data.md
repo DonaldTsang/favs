@@ -117,3 +117,6 @@ ffmpeg -i $1 -vf "format=pix_fmts=${color},scale=iw/${block}:-1" \
 - https://github.com/sublee/glicko2
 - https://github.com/sublee/elo
 - Alternatives https://github.com/McLeopold/PythonSkills
+
+## The best decentralization info
+- https://github.com/redecentralize/alternative-internet
