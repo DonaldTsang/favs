@@ -33,6 +33,9 @@
 - Calendar https://calver.org
 - https://github.com/dephell/dephell_versioning
 
+## The best programming fonts
+- https://github.com/ProgrammingFonts/ProgrammingFonts
+
 ## Best Regex Alternative - Verbal Expressions
 - https://github.com/VerbalExpressions
 - https://verbalexpressions.github.io/JSVerbalExpressions/
