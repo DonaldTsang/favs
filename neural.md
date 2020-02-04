@@ -79,6 +79,9 @@
 
 ## The best Privacy Tool for Machine Learning
 - reference https://github.com/mortendahl/awesome-ppml
+  - general computing https://github.com/shaoxiongji/federated-learning
+  - https://github.com/poga/awesome-federated-learning
+  - https://github.com/timmers/awesome-federated-learning
 - https://github.com/OpenMined/PySyft
 - https://github.com/FederatedAI/FATE
 - https://github.com/tensorflow/federated
