@@ -70,10 +70,6 @@
 - https://github.com/koulanurag/muzero-pytorch
 - https://github.com/YuriCat/MuZeroJupyterExample
 - https://github.com/Zeta36/muzero
-- https://towardsdatascience.com/the-evolution-of-alphago-to-muzero-c2c37306bf9
-- https://medium.com/applied-data-science/how-to-build-your-own-muzero-in-python-f77d5718061a
-- https://medium.com/applied-data-science/how-to-build-your-own-deepmind-muzero-in-python-part-2-3-f99dad7a7ad
-- https://medium.com/applied-data-science/how-to-build-your-own-deepmind-muzero-in-python-part-3-3-ccea6b03538b
 
 ## The best Neural Architecture Search
 - orang https://github.com/microsoft/nni
