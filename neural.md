@@ -81,6 +81,7 @@
 - reference https://github.com/mortendahl/awesome-ppml
 - https://github.com/OpenMined/PySyft
 - https://github.com/FederatedAI/FATE
+- https://github.com/tensorflow/federated
 
 ## The best knowledge graph tool
 - bad reference (needs cleaning) https://github.com/shaoxiongji/awesome-knowledge-graph
