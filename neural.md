@@ -82,6 +82,8 @@
 - https://github.com/OpenMined/PySyft
 - https://github.com/FederatedAI/FATE
 - https://github.com/tensorflow/federated
+- https://github.com/facebookresearch/CrypTen
+- https://github.com/shaoxiongji/federated-learning
 
 ## The best knowledge graph tool
 - bad reference (needs cleaning) https://github.com/shaoxiongji/awesome-knowledge-graph
