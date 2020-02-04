@@ -80,3 +80,8 @@
 - Keras https://github.com/keras-team/autokeras
 - Tensorflow https://github.com/tensorflow/adanet
 - PyTorch https://github.com/quark0/darts
+
+## The best Privacy Tool for Machine Learning
+- reference https://github.com/mortendahl/awesome-ppml
+- https://github.com/OpenMined/PySyft
+- https://github.com/FederatedAI/FATE
