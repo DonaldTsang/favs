@@ -61,9 +61,6 @@
 - https://github.com/savan77/Adversarial-Reprogramming
 - https://github.com/mishig25/adversarial-reprogramming-keras
 
-## The best TayAI
-- https://github.com/thunlp/PLMpapers
-
 ## The best Game AI
 - https://github.com/werner-duvaud/muzero-general
 - https://github.com/johan-gras/MuZero
