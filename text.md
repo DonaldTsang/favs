@@ -32,3 +32,6 @@ https://github.com/languagetool-org/languagetool
   - A romance novel - Marienbad My Love by Mark Leach (2.5 Mil)
   - Pre-scientology - Mission Earth by L. Ron Hubbard (1.2 Mil)
 - WHO AUTOMATED THIS? https://github.com/johnafish/duree
+
+## The best Pre-Trained Language Models
+- https://github.com/thunlp/PLMpapers
