@@ -7,3 +7,6 @@
   - full auto https://github.com/nickwalton/AI-DungeonMaster
   - modded https://github.com/storybro/storybro
 - WAT https://aidungeonpastes.github.io/AID2-Art/
+
+## The best card game AI
+- https://github.com/datamllab/rlcard
