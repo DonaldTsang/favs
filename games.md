@@ -10,3 +10,4 @@
 
 ## The best card game AI
 - https://github.com/datamllab/rlcard
+- (please check the other AI repos as well)
