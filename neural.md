@@ -85,10 +85,6 @@
 - https://github.com/facebookresearch/CrypTen
 - https://github.com/shaoxiongji/federated-learning
 
-## The best knowledge graph tool
-- bad reference (needs cleaning) https://github.com/shaoxiongji/awesome-knowledge-graph
-- https://github.com/Accenture/AmpliGraph
-
 ## The best knowledge distillation
 - TBD
 - Pruning and sparsity
