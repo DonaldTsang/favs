@@ -8,6 +8,13 @@
   - modded https://github.com/storybro/storybro
 - WAT https://aidungeonpastes.github.io/AID2-Art/
 
+## The best Game AI
+- https://github.com/werner-duvaud/muzero-general
+- https://github.com/johan-gras/MuZero
+- https://github.com/koulanurag/muzero-pytorch
+- https://github.com/YuriCat/MuZeroJupyterExample
+- https://github.com/Zeta36/muzero
+
 ## The best card game AI
 - https://github.com/datamllab/rlcard
 - (please check the other AI repos as well)
