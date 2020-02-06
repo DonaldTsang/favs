@@ -35,3 +35,7 @@ https://github.com/languagetool-org/languagetool
 
 ## The best Pre-Trained Language Models
 - https://github.com/thunlp/PLMpapers
+
+## The best knowledge graph tool
+- bad reference (needs cleaning) https://github.com/shaoxiongji/awesome-knowledge-graph
+- https://github.com/Accenture/AmpliGraph
