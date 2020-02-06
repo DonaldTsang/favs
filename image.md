@@ -14,7 +14,7 @@
 
 ## The best Neural Denoising Tools
 - some info
-  - https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art/
+  - https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art
   - https://github.com/z-bingo/awesome-image-denoising-state-of-the-art
   - https://github.com/flyywh/Image-Denoising-State-of-the-art
   - https://github.com/cszn/KAIR
