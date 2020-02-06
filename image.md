@@ -69,10 +69,20 @@
 - Source of inspiration https://github.com/facebookresearch/detectron2
 - Tool https://github.com/KichangKim/DeepDanbooru
 - Visualization https://github.com/halcy/DeepDanbooruActivationMaps
-- Counterpoints
-  - https://github.com/tensorflow/cleverhans
-  - https://github.com/bethgelab/foolbox
-  - https://github.com/advboxes/AdvBox
+
+## The best image adversarial tools
+- https://github.com/tensorflow/cleverhans
+- https://github.com/bethgelab/foolbox
+- https://github.com/advboxes/AdvBox
+
+## The best NSFW detection tool
+- dataset https://github.com/alex000kim/nsfw_data_scraper
+  - 2nd place https://github.com/EBazarov/nsfw_data_source_urls
+- interface https://github.com/infinitered/nsfwjs
+  - Model https://github.com/GantMan/nsfw_model
+  - Model https://github.com/rockyzhengwu/nsfw
+- Bad version https://github.com/yahoo/open_nsfw
+  - Modernized https://github.com/mdietrichstein/tensorflow-open_nsfw
 
 ## The best forbidden obfuscation software - GMask
 - C++ https://github.com/kunstmusik/cmask
