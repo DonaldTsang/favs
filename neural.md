@@ -61,13 +61,6 @@
 - https://github.com/savan77/Adversarial-Reprogramming
 - https://github.com/mishig25/adversarial-reprogramming-keras
 
-## The best Game AI
-- https://github.com/werner-duvaud/muzero-general
-- https://github.com/johan-gras/MuZero
-- https://github.com/koulanurag/muzero-pytorch
-- https://github.com/YuriCat/MuZeroJupyterExample
-- https://github.com/Zeta36/muzero
-
 ## The best Neural Architecture Search
 - orang https://github.com/microsoft/nni
 - Keras https://github.com/keras-team/autokeras
