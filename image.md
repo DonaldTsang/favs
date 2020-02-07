@@ -118,3 +118,6 @@ http://youtubepoop.wikia.com/wiki/Poopisms
 - https://github.com/1adrianb/face-alignment
 - https://github.com/cleardusk/3DDFA
 
+## The best adversarial face attack
+- https://github.com/ppwwyyxx/Adversarial-Face-Attack
+- https://github.com/papermsucode/advhat
