@@ -107,10 +107,13 @@ http://youtubepoop.wikia.com/wiki/Poopisms
 - https://github.com/betars/Face-Resources
 - https://github.com/becauseofAI/HelloFace
 - https://github.com/polarisZhao/awesome-face
+- https://github.com/mrgloom/Face-Swap
+- https://github.com/mrgloom/Face-landmarks-detection-benchmark
+- https://github.com/ShownX/FacePaperCollection
 
 ## The best 3d facial landmark / face alignment
 - https://github.com/deepinsight/insightface
 - https://github.com/YadiraF/PRNet
 - https://github.com/1adrianb/face-alignment
 - https://github.com/cleardusk/3DDFA
-- https://github.com/ShownX/FacePaperCollection
+
