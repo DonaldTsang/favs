@@ -110,6 +110,7 @@ http://youtubepoop.wikia.com/wiki/Poopisms
 - https://github.com/mrgloom/Face-Swap
 - https://github.com/mrgloom/Face-landmarks-detection-benchmark
 - https://github.com/ShownX/FacePaperCollection
+- https://github.com/L706077/DNN-Face-Recognition-Papers
 
 ## The best 3d facial landmark / face alignment
 - https://github.com/deepinsight/insightface
