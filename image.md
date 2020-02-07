@@ -113,3 +113,4 @@ http://youtubepoop.wikia.com/wiki/Poopisms
 - https://github.com/YadiraF/PRNet
 - https://github.com/1adrianb/face-alignment
 - https://github.com/cleardusk/3DDFA
+- https://github.com/ShownX/FacePaperCollection
