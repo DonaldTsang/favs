@@ -71,3 +71,8 @@
 - https://github.com/rampage644/super-resolution
 - https://github.com/summit1993/I-am-Super
 - https://github.com/kwsou/video2x
+
+## The best video frame interpolation tool
+- https://github.com/baowenbo/DAIN
+- https://github.com/sniklaus/sepconv-slomo
+- https://github.com/neil454/deep-motion
