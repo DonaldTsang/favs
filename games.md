@@ -24,3 +24,6 @@
 ## The best card game AI
 - https://github.com/datamllab/rlcard
 - (please check the other AI repos as well)
+
+## The best speed cubing info website
+- https://www.speedsolving.com/wiki/index.php/Main_Page
