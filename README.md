@@ -22,16 +22,6 @@ my favorite software repos
 - MKDocs (https://github.com/mkdocs/mkdocs)
   - Themes (https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
 
-## The best compression benchmark
-- https://github.com/powturbo/TurboBench
-- 2nd place http://pages.di.unipi.it/farruggia/dcb/
-- For the crazies:
-  - http://www.mattmahoney.net/dc/text.html
-  - More benchmarks at http://www.mattmahoney.net/dc
-  - And https://cs.fit.edu/~mmahoney/compression/
-  - https://www.maximumcompression.com/data/summary_mf3.php
-  - http://qlic.altervista.org/
-
 ## The best psuedo turing tarpits
 -  https://codegolf.stackexchange.com/questions/110648
 
