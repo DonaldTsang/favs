@@ -70,3 +70,6 @@ TBD
 
 ## The \[Redacted\] thing you can read
 - https://github.com/Sefaria/Sefaria-Export
+
+## Society
+- https://childneedsfather.com/category/social-pyramids
