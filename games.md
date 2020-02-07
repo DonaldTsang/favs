@@ -27,3 +27,4 @@
 
 ## The best speed cubing info website
 - https://www.speedsolving.com/wiki/index.php/Main_Page
+- secondary https://ruwix.com/
