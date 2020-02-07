@@ -109,4 +109,7 @@ http://youtubepoop.wikia.com/wiki/Poopisms
 - https://github.com/polarisZhao/awesome-face
 
 ## The best 3d facial landmark / face alignment
-TBD
+- https://github.com/deepinsight/insightface
+- https://github.com/YadiraF/PRNet
+- https://github.com/1adrianb/face-alignment
+- https://github.com/cleardusk/3DDFA
