@@ -57,14 +57,7 @@
 - https://github.com/espeak-ng/espeak-ng
 
 ## The best audio source seperation
-- https://github.com/deezer/spleeter
-- https://github.com/facebookresearch/demucs
-- https://github.com/andabi/music-source-separation
-- https://github.com/f90/Wave-U-Net
-- https://github.com/MTG/DeepConvSep
-- https://github.com/sigsep/open-unmix-pytorch
-- https://github.com/interactiveaudiolab/nussl
-- https://github.com/francesclluis/source-separation-wavenet
+TBD
 
 ## The best lip-syncing tools
 TBD
