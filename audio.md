@@ -13,6 +13,9 @@
 - https://github.com/andabi/deep-voice-conversion
 - https://github.com/r9y9/wavenet_vocoder
 
+## The best adversarial audio
+- https://github.com/carlini/audio_adversarial_examples
+
 ## The best audio Super Resolution
 - Super Resolution https://github.com/kuleshov/audio-super-res
 
