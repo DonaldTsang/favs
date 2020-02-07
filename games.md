@@ -15,6 +15,12 @@
 - https://github.com/YuriCat/MuZeroJupyterExample
 - https://github.com/Zeta36/muzero
 
+## The best ranking system
+- https://github.com/sublee/trueskill
+- https://github.com/sublee/glicko2
+- https://github.com/sublee/elo
+- Alternatives https://github.com/McLeopold/PythonSkills
+
 ## The best card game AI
 - https://github.com/datamllab/rlcard
 - (please check the other AI repos as well)
