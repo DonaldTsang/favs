@@ -101,3 +101,12 @@ http://youtubepoop.wikia.com/wiki/Poopisms
 
 ## World's best booru software
 - https://github.com/derpibooru/philomena
+
+## The best face reference
+- https://github.com/ChanChiChoi/awesome-Face_Recognition
+- https://github.com/betars/Face-Resources
+- https://github.com/becauseofAI/HelloFace
+- https://github.com/polarisZhao/awesome-face
+
+## The best 3d facial landmark / face alignment
+TBD
