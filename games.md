@@ -1,6 +1,7 @@
 ## The best dice rollers
 - JS https://github.com/GreenImp/rpg-dice-roller
 - C++ https://github.com/Rolisteam/DiceParser
+- Python https://github.com/the-nick-of-time/DnD
 - C# https://github.com/skizzerz/DiceRoller
 
 ## The best Dungeon game
