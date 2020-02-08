@@ -1,5 +1,6 @@
 ## Best Character Encoding and Langauge Detection
 - https://github.com/Ousret/charset_normalizer
+- Surveys regarding the issue https://arxiv.org/pdf/1804.08186.pdf
 - Mega dataset http://www.cs.cmu.edu/~ralf/langid.html
 - Language dataset for Langid 
 - Language dataset for Langdetect https://dumps.wikimedia.org/backup-index.html
