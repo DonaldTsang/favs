@@ -3,6 +3,7 @@
 - C++ https://github.com/Rolisteam/DiceParser
 - Python https://github.com/the-nick-of-time/DnD
 - C# https://github.com/skizzerz/DiceRoller
+- PHP https://github.com/bakame-php/dice-roller
 
 ## The best Dungeon game
 - the original https://github.com/AIDungeon/AIDungeon
