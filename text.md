@@ -1,5 +1,6 @@
 ## Best Character Encoding and Langauge Detection
 - https://github.com/Ousret/charset_normalizer
+- Language dataset http://www.cs.cmu.edu/~ralf/langid.html
 
 ## Best Text Comparison and Phonetic Encoding
 - https://github.com/life4/textdistance
