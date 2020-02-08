@@ -1,5 +1,6 @@
 ## The worst automated video generator
 - https://github.com/Adam-Jimenez/auddit
+- https://github.com/HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader
 
 ## The best video player - MPV
 - https://github.com/mpv-player/mpv
