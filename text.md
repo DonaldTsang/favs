@@ -2,7 +2,7 @@
 - https://github.com/Ousret/charset_normalizer
 - Surveys regarding the issue https://arxiv.org/pdf/1804.08186.pdf
 - Mega dataset http://www.cs.cmu.edu/~ralf/langid.html
-- Language dataset for Langid 
+- Language dataset for Langid https://github.com/saffsd/langid.py
 - Language dataset for Langdetect https://dumps.wikimedia.org/backup-index.html
 - Language dataset for CLD2 https://github.com/CLD2Owners/cld2/blob/master/internal/test_shuffle_1000_48_666.utf8.gz
 - Language dataset for Lingua https://wortschatz.uni-leipzig.de/de
