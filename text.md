@@ -7,7 +7,6 @@
 - Language dataset for CLD2 https://github.com/CLD2Owners/cld2/blob/master/internal/test_shuffle_1000_48_666.utf8.gz
 - Language dataset for Lingua https://wortschatz.uni-leipzig.de/de
 - (There is no way in hell UDHR is good data for language identification)
-- If you like word embedding https://fasttext.cc/blog/2017/10/02/blog-post.html
 
 ## Best Text Comparison and Phonetic Encoding
 - https://github.com/life4/textdistance
