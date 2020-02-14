@@ -24,6 +24,9 @@
 - https://github.com/satwikkansal/wtfpython
 - https://github.com/denysdovhan/wtfjs
 
+## The best way to remove indentation for Python
+- https://github.com/mathialo/bython
+
 ## The best repos for Version Control
 - https://github.com/sdg-mit/gitless
 - https://github.com/frostming/legit
