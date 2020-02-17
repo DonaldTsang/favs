@@ -90,3 +90,9 @@ my favorite software repos
   - https://github.com/Data4Democracy/media-crawler
   - https://github.com/nobodyme/reddit-fetch
   - https://github.com/mcandocia/TreeGrabForReddit
+
+## Derpibooru
+- Android https://github.com/auzbuzzard/Derpiboo-Android
+- iOS https://github.com/auzbuzzard/Derpiboo
+- React native https://github.com/auzbuzzard/derpibooru-react
+- Flutter https://github.com/Atulin/Chryssibooru
