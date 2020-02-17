@@ -126,6 +126,6 @@ http://youtubepoop.wikia.com/wiki/Poopisms
 - https://github.com/exzhawk/EhViewer
 
 ## The future of image browsing
-- https://github.com/hydrusnetwork/hydrus/
-- https://github.com/derpibooru/philomena
-- https://github.com/Pyrlang/Pyrlang
+- Personal in Python https://github.com/hydrusnetwork/hydrus
+- Group in Elixir https://github.com/derpibooru/philomena
+- Python-Elixir bridge https://github.com/Pyrlang/Pyrlang
