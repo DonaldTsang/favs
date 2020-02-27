@@ -22,3 +22,8 @@
 - List of 5 http://www.myplaniq.com/LTISystem/f401k__lazy_portfolios.action
 - List of 5 https://www.getrichslowly.org/the-lazy-way-to-investment-success/
 - List of 5 https://www.foxnews.com/story/lazy-boring-portfolio-winners
+
+
+### The best benches on savings and investments
+- https://www.financialsamurai.com/how-much-savings-should-i-have-accumulated-by-age/
+- https://www.kiplinger.com/article/retirement/T047-C032-S014-age-targets-how-much-should-you-have-saved-by-now.html
