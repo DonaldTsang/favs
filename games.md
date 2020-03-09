@@ -39,7 +39,7 @@
 ## The best D&D spell database
 - Printable https://www.dnd-spells.com/spells
 - Non-Printable https://donjon.bin.sh/5e/spells/
-- Overflowing free and printable https://dnd5spells.rpgist.net/en/spells
+- Overflowing and free https://dnd5spells.rpgist.net/en/spells
 - Overflowing but paywalled
   - https://roll20.net/compendium/dnd5e/Spells%20List\
   - https://www.dndbeyond.com/spells
