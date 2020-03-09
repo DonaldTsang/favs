@@ -35,3 +35,11 @@
 ## The best speed cubing info website
 - https://www.speedsolving.com/wiki/index.php/Main_Page
 - secondary https://ruwix.com/
+
+## The best D&D spell database
+- Printable https://www.dnd-spells.com/spells
+- Non-Printable https://donjon.bin.sh/5e/spells/
+- Overflowing free and printable https://dnd5spells.rpgist.net/en/spells
+- Overflowing but paywalled
+  - https://roll20.net/compendium/dnd5e/Spells%20List\
+  - https://www.dndbeyond.com/spells
