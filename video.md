@@ -77,3 +77,6 @@
 - https://github.com/baowenbo/DAIN
 - https://github.com/sniklaus/sepconv-slomo
 - https://github.com/neil454/deep-motion
+
+## The best video matching
+- https://github.com/facebookresearch/videoalignment#references
