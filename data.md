@@ -126,8 +126,6 @@ ffmpeg -i $1 -vf "format=pix_fmts=${color},scale=iw/${block}:-1" \
   - http://qlic.altervista.org/
 
 ## The best file format standard docs
-- https://wiki.archivematica.org/Release_Process
-- https://www.itforarchivists.com/siegfried/
 - https://coptr.digipres.org/Category:File_Format_Identification
 - https://knihovnarevue.nkp.cz/kplus-text-en/archives/2015-2/library-and-information-at-home/digital-preservation-from-theory-to-practice#endref32
 - https://madfileformatscience.garymcgath.com/tag/fident/
