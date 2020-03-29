@@ -1,5 +1,11 @@
 ## Best Image Format - JPEG-XL
-- https://github.com/google/brunsli
+- Converter https://github.com/google/brunsli
+- File sizes
+  - https://www.reddit.com/r/jpegxl/comments/fjddrr/lossless_image_formats_comparison_webp_jpeg_xl/
+  - https://docs.google.com/spreadsheets/d/1ju4q1WkaXT7WoxZINmQpf4ElgMD2VMlqeDN2DuZ6yJ8/edit
+- Base formats
+  - FLIF and https://github.com/cloudinary/fuif
+  - WebP and https://github.com/google/pik
 
 ## The best Perceptive Hash Tool
 - https://github.com/thorn-oss/perception
