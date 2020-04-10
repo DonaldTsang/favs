@@ -135,3 +135,9 @@ http://youtubepoop.wikia.com/wiki/Poopisms
 - Personal in Python https://github.com/hydrusnetwork/hydrus
 - Group in Elixir https://github.com/derpibooru/philomena
 - Python-Elixir bridge https://github.com/Pyrlang/Pyrlang
+
+## The largest dataset
+- ImageNet has ~14M http://image-net.org/about-stats
+- OpenImages has ~9M https://storage.googleapis.com/openimages/web/factsfigures.html
+- Danbooru has ~4M https://www.gwern.net/Danbooru2019
+
