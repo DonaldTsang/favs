@@ -104,12 +104,10 @@
 - JS https://github.com/julianwachholz/wmask
 
 ## Photo unedit
-- https://www.schneier.com/blog/archives/2007/10/untwirling_a_ph.html
-- https://www.techjunkie.com/unblur-photo/
+- TBH
 
-## WTF
-https://youchew.net/wiki/index.php?title=Poopism
-http://youtubepoop.wikia.com/wiki/Poopisms
+## Youtube Poop Techniques
+- TBH
 
 ## The best face reference
 - https://github.com/ChanChiChoi/awesome-Face_Recognition
