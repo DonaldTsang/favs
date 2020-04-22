@@ -105,9 +105,6 @@
 https://youchew.net/wiki/index.php?title=Poopism
 http://youtubepoop.wikia.com/wiki/Poopisms
 
-## World's best booru software
-- https://github.com/derpibooru/philomena
-
 ## The best face reference
 - https://github.com/ChanChiChoi/awesome-Face_Recognition
 - https://github.com/betars/Face-Resources
