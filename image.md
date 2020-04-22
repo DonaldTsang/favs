@@ -6,6 +6,10 @@
 - Base formats
   - FLIF and https://github.com/cloudinary/fuif
   - WebP and https://github.com/google/pik
+  
+## Hypothetical Machine Learning Replacement
+- https://github.com/caoscott/SReC
+- https://github.com/fab-jul/L3C-PyTorch
 
 ## The best Perceptive Hash Tool
 - https://github.com/thorn-oss/perception
