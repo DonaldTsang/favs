@@ -13,14 +13,17 @@
 
 ## The best Perceptive Hash Tool
 - https://github.com/thorn-oss/perception
+- reasoning: pHash, aHash, dHash and wHash are too common
 
 ## The best Image Augmentation Tools
 - https://github.com/aleju/imgaug
 - https://github.com/albumentations-team/albumentations
 - https://github.com/mdbloice/Augmentor
+- these three all have at least 500 stars
 
 ## The best Steganography Tools
 - https://github.com/DominicBreuker/stego-toolkit
+- the best collection out there
 
 ## The best Neural Denoising Tools
 - some info
