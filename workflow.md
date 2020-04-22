@@ -40,6 +40,11 @@
 - https://github.com/ProgrammingFonts/ProgrammingFonts
 - https://github.com/ryanoasis/nerd-fonts
 
+## The best Free Domain System
+- https://github.com/luolongfei/freenom
+- https://github.com/maxisoft/Freenom-dns-updater
+- https://github.com/mkorthof/freenom-script
+
 ## Best Regex Alternative - Verbal Expressions
 - https://github.com/VerbalExpressions
 - https://verbalexpressions.github.io/JSVerbalExpressions/
