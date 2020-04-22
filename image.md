@@ -102,7 +102,6 @@
 - Go https://github.com/fggp/gmask
 - Python https://github.com/GunioRobot/pymask
 - JS https://github.com/julianwachholz/wmask
-- Weird alternative http://craftyspace.net/pizza/
 
 ## Photo unedit
 - https://www.schneier.com/blog/archives/2007/10/untwirling_a_ph.html
