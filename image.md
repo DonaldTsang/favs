@@ -87,6 +87,11 @@
 - https://github.com/tensorflow/cleverhans
 - https://github.com/bethgelab/foolbox
 - https://github.com/advboxes/AdvBox
+- https://github.com/shubhomoydas/ad_examples
+- reading list
+  - https://github.com/chawins/Adversarial-Examples-Reading-List
+  - https://github.com/chbrian/awesome-adversarial-examples-dl
+- why avoiding it is impossible https://github.com/anishathalye/obfuscated-gradients
 
 ## The best NSFW detection tool
 - dataset https://github.com/alex000kim/nsfw_data_scraper
