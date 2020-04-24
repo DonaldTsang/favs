@@ -148,3 +148,6 @@
 - OpenImages has ~9M https://storage.googleapis.com/openimages/web/factsfigures.html
 - Danbooru has ~4M https://www.gwern.net/Danbooru2019
 - Objects365 has ~2M https://www.objects365.org/overview.html
+
+## Discord scrape
+- https://github.com/Tyrrrz/DiscordChatExporter
