@@ -129,3 +129,9 @@ ffmpeg -i $1 -vf "format=pix_fmts=${color},scale=iw/${block}:-1" \
 - https://coptr.digipres.org/Category:File_Format_Identification
 - https://knihovnarevue.nkp.cz/kplus-text-en/archives/2015-2/library-and-information-at-home/digital-preservation-from-theory-to-practice#endref32
 - https://madfileformatscience.garymcgath.com/tag/fident/
+
+## Similarity measueres
+- https://www.semanticscholar.org/paper/Complex-Wavelet-Structural-Similarity%3A-A-New-Image-Sampat-Wang/13eb5c34d9c4c2374b982897a3d762c7d58fa3aa
+- https://www.semanticscholar.org/paper/Correcting-Jaccard-and-other-similarity-indices-for-Albatineh-Niewiadomska-Bugaj/e4618e5954480b1d67b967852826bfdecc30c688
+- https://www.semanticscholar.org/paper/Generalized-Pair-Counting-Similarity-Measures-for-Zhang-Yang/3988db43c713db493b348981c5703606581a661a
+- https://www.semanticscholar.org/paper/On-Similarity-Indices-and-Correction-for-Chance-Albatineh-Niewiadomska-Bugaj/037e048df8b2e371033ed4e5106ee11bf1c48030
