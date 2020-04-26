@@ -77,3 +77,7 @@
   - https://github.com/lk-geimfari/expynent
   - https://github.com/rthor/isjs
 - Regex safety https://github.com/substack/safe-regex
+
+## The best browser add
+- Sci-Hub https://greasyfork.org/en/scripts/370246-sci-hub-button
+- Sleazyfork https://greasyfork.org/en/scripts/23840-greasyfork-search-with-sleazyfork-results-include
