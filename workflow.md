@@ -79,5 +79,6 @@
 - Regex safety https://github.com/substack/safe-regex
 
 ## The best browser add
+- right-click/copy https://greasyfork.org/en/scripts/28497-remove-web-limits-modified
 - Sci-Hub https://greasyfork.org/en/scripts/370246-sci-hub-button
 - Sleazyfork https://greasyfork.org/en/scripts/23840-greasyfork-search-with-sleazyfork-results-include
