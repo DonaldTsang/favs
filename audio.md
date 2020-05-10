@@ -59,6 +59,9 @@
 ## The best "basic" Speech Synth
 - https://github.com/espeak-ng/espeak-ng
 
+## The most eternal music
+- https://github.com/generative-music/generative.fm
+
 ## The best audio source seperation
 TBD
 
