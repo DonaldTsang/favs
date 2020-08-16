@@ -16,6 +16,7 @@
 
 ## Best Readability Evaluator
 - https://github.com/shivam5992/textstat
+- In case we need to use browsers https://github.com/cgiffard/TextStatistics.js
 
 ## Best Unicode Fixer
 - https://github.com/LuminosoInsight/python-ftfy
