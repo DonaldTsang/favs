@@ -151,3 +151,8 @@
 
 ## Discord scrape
 - https://github.com/Tyrrrz/DiscordChatExporter
+
+## Hentai Cleaning
+- https://github.com/natethegreate/Screentone-Remover
+- https://github.com/natethegreate/hent-AI
+- https://github.com/deeppomf/DeepCreamPy
