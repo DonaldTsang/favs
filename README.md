@@ -96,3 +96,6 @@ my favorite software repos
 - iOS https://github.com/auzbuzzard/Derpiboo
 - React native https://github.com/auzbuzzard/derpibooru-react
 - Flutter https://github.com/Atulin/Chryssibooru
+
+## Anime DB
+- https://github.com/manami-project/anime-offline-database
