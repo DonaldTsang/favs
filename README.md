@@ -99,3 +99,9 @@ my favorite software repos
 
 ## Anime DB
 - https://github.com/manami-project/anime-offline-database
+
+## Reddit scraper API
+- https://pushshift.io/
+
+## Twitter scraper API
+
