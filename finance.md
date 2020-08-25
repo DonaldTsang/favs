@@ -27,3 +27,6 @@
 ### The best benches on savings and investments
 - https://www.financialsamurai.com/how-much-savings-should-i-have-accumulated-by-age/
 - https://www.kiplinger.com/article/retirement/T047-C032-S014-age-targets-how-much-should-you-have-saved-by-now.html
+
+### Best Inequality Measure (Theil or 82-18 derived)
+- https://en.wikipedia.org/wiki/Generalized_entropy_index
