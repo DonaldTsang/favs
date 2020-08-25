@@ -17,6 +17,12 @@
 ## Best Readability Evaluator
 - https://github.com/shivam5992/textstat
 - In case we need to use browsers https://github.com/cgiffard/TextStatistics.js
+- Flesch is an all-rounder
+- For Education, use Coleman-Liau (Dale-Chall/SMOG/FOG)
+- For Manuals, use ARI (Linsear)
+- For Publishing, use Coleman-Liau or LIX (Dale-Chall/SMOG/GOG)
+- ELIXIV initiative (Coleman-Liau or ARI score should be less than 9)
+- ELIXIV for LIX? it should be under 40 (why TF is it not linear!?)
 
 ## Best Unicode Fixer
 - https://github.com/LuminosoInsight/python-ftfy
