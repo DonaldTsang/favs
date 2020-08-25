@@ -83,3 +83,6 @@
 
 ## The most complete font database
 - https://github.com/DrXie/OSFCC
+
+## The best Kanji stress testing dataset
+- http://en.glyphwiki.org/wiki/
